@@ -4,9 +4,10 @@ author: Jsevillamol
 ---
 Last year (course 2015-2016) we had some fantastic teachers who eagerly provided us with interesting classes on very diverse topics.
 
-What follows is a recopilation of the notes and exercises they made available after their classes.
+What follows is a recompilation of the notes and exercises they made available after their classes.
 
-##Lectures by Diego Chicharro
+## Lectures by Diego Chicharro
+
 #### Elementary Number Theory
 
 [Lecture notes](https://drive.google.com/file/d/0Bw7LuY5WSH1fUDVIT2ZIeDlISXc/view?usp=sharing)
@@ -15,8 +16,9 @@ What follows is a recopilation of the notes and exercises they made available af
 
 [Solutions](https://drive.google.com/file/d/0Bw7LuY5WSH1fNVV2LXYtNkFjYWc/view?usp=sharing)
 
-##Lectures by Jaime Sevilla
-###Set Theory
+## Lectures by Jaime Sevilla
+
+### Set Theory
 A gentle introduction to axiomatic set theory.
 
 #### Content
@@ -44,23 +46,22 @@ A gentle introduction to axiomatic set theory.
 * Prove that $\omega$ is well-ordered; that is, that each nonempty subset has a least element.
 
 
-###Equinumerability
+### Equinumerability
 Basic results about countable and uncountable sets.
 
 #### Content
 * Schröder-Bernstein's theorem
 * Countability
-* Uncontability
+* Uncountability
 
 [Lecture notes & exercises](https://es.sharelatex.com/project/566b6f9928e89a4623910f85)
 
-###Computability
+### Computability
 The basic definitions and results regarding the study of what can and cannot be computed by an algorithm.
 
 #### Content
 * Turing Machines.
 * Uncomputability. The diagonal function and the halting problem.
-* The biever numbers.
+* The productivity function.
 
 [Lecture notes & exercises](https://es.sharelatex.com/project/5672ebdec2659588184db7d1)
-
