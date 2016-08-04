@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dedekind&#39;s Army - Articles</title>
+    <description>Dedekind&#39;s Army&#39;s blog
+</description>
+    <link>
+    http://dedekindsarmy.github.io</link>
+    
+      
+      <item>
+        <title>Example content.</title>
+        
+          <description>&lt;p&gt;Example content.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 04 Aug 2016 00:00:00 +0200</pubDate>
+        <link>
+        http://dedekindsarmy.github.io/example-content.html</link>
+        <guid isPermaLink="true">http://dedekindsarmy.github.io/example-content.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
