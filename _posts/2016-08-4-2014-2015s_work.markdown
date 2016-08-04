@@ -1,0 +1,21 @@
+---
+title: 2014-2015's work 
+author: iqcd
+---
+
+**New course, new web**. I'll put here what we did:
+
+* [Set theory](pdffiles/set_theory.pdf).
+* [Equinumerability](pdffiles/equinumerability.pdf).
+* [Basic computability](pdffiles/basic_computability.pdf) + [Turing Machine Compiler](https://github.com/Jsevillamol/PythonUTM).
+* [Number Theory](pdffiles/number_theory_lec1.pdf) + [Problems](pdffiles/number_theory_assig1.pdf) + [Solutions](pdffiles/number_theory_sol1.pdf).
+
+We were planning to do, apart from the classes, some olympiad-like competitions, by teams. Discuss below whether you like the idea. Here is an example of problem:
+
+
+<span class="capsule">**Problem.**</span> Compute the sum
+\\[\sum_{n=0}^\infty\frac{\cos(n)}{2^n}\\]
+
+However, do not expect the problems to be so easy!
+
+From now on, we will publish the lecture notes, problems, solutions, etc. in this blog.
