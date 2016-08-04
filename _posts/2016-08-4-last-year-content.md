@@ -10,6 +10,14 @@ What follows is a recompilation of the notes and exercises they made available a
 
 #### Elementary Number Theory
 
+####Content
+
+* The basis representation theorem.
+* Euclid's division lemma.
+* Basic concepts on divisibility.
+* Prime numbers.
+* The Fundamental Theorem of Arithmetic (FTA).
+
 [Lecture notes](https://drive.google.com/file/d/0Bw7LuY5WSH1fUDVIT2ZIeDlISXc/view?usp=sharing)
 
 [Exercises](https://drive.google.com/file/d/0Bw7LuY5WSH1fVGZ1TTJUZW4waWM/view?usp=sharing)
