@@ -10,7 +10,7 @@ What follows is a recompilation of the notes and exercises they made available a
 
 #### Elementary Number Theory
 
-####Content
+#### Content
 
 * The basis representation theorem.
 * Euclid's division lemma.
