@@ -7,6 +7,7 @@ Last year (course 2015-2016) we had some fantastic teachers who eagerly provided
 What follows is a recompilation of the notes and exercises they made available after their classes.
 
 ## Lectures by Diego Chicharro
+
 #### Elementary Number Theory
 
 [Lecture notes](https://drive.google.com/file/d/0Bw7LuY5WSH1fUDVIT2ZIeDlISXc/view?usp=sharing)
@@ -16,6 +17,7 @@ What follows is a recompilation of the notes and exercises they made available a
 [Solutions](https://drive.google.com/file/d/0Bw7LuY5WSH1fNVV2LXYtNkFjYWc/view?usp=sharing)
 
 ## Lectures by Jaime Sevilla
+
 ### Set Theory
 A gentle introduction to axiomatic set theory.
 
