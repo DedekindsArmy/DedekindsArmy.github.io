@@ -1,6 +1,6 @@
 ---
 layout: about
-title: accent
+title: about
 author: Jsevillamol
 permalink: /about
 ---
@@ -8,7 +8,7 @@ permalink: /about
 Welcome to the official blog of Dedekind's Army.
 
 ## Who are we
-Dedekind's Army is a volunteer-driven project in [Universidad Complutense de Madrid](https://www.ucm.es/)
+**Dedekind's Army** is a volunteer-driven project in [Universidad Complutense de Madrid](https://www.ucm.es/)
 which organizes classes covering introduction to diverse math topics. The classes are imparted by and for college students.
 
 Two reasons have motivated the foundation of the project:
@@ -28,7 +28,17 @@ Interested in collaborating or attending? [Get in touch with us!](mailto:dedekin
 
 [!image_here Diego Chicharro]
 
+Diego Chicharro is a undergraduate student at the Complutense University of Madrid, studying a joined degree on Mathematics and Physics. 
+
+He aim to become a mathematical researcher in a field that is still to be determined. Within his main interests lie number theory, complex analysis, field theory and topology.
+
+He also like spending time researching about elementary number theory, summation methods, and asymptotics, and thoroughly enjoy solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.  
+
+Computing *definite* integrals in free time is something that he cannot help.
+
 Classes taught: Number theory
+
+Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
 ### Jaime Sevilla
 *Cofounder, organizer and teacher*
@@ -47,10 +57,10 @@ In Dedekind's Army, he teaches subjects related to the research of foundational 
 
 Classes taught: Set theory - Equinumerability - Computability
 
-#### Contact:
-[Email>](mailto:jsevillamol@outlook.com)
+Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
 ## Contributors
+
 ### Gonzalo Gómez
 
 Classes taught: Axiomatic origami
