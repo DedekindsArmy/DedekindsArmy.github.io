@@ -19,7 +19,7 @@ a way of sharing their passions.
 2. Many students are considering pursuing a life as teachers in college or institutes. In DA, they can
 try for themselves what teaching is like, and build the communication skills needed for it.
 
-Interested in collaborating or attending? [Get in touch with us!](dedekindsarmy@gmail.com)
+Interested in collaborating or attending? [Get in touch with us!](mailto:dedekindsarmy@gmail.com)
 
 ## The team
 
@@ -48,7 +48,7 @@ In Dedekind's Army, he teaches subjects related to the research of foundational 
 Classes taught: Set theory - Equinumerability - Computability
 
 #### Contact:
-[Email>](jsevillamol@outlook.com)
+[Email>](mailto:jsevillamol@outlook.com)
 
 ## Contributors
 ### Gonzalo Gómez
