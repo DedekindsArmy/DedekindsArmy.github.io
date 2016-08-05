@@ -34,7 +34,7 @@ He aims to become a mathematical researcher in a field that is still to be deter
 
 He also likes spending time researching elementary number theory, summation methods, and asymptotics, and thoroughly enjoys solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.
 
-Computing *definite* integrals is something that he cannot help doing in free time.
+Computing *definite* integrals is something that he cannot help doing in his free time.
 
 **Classes taught:**
 [Number theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
