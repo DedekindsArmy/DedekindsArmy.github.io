@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: DA Calendar
-permalink: /calendar/
+permalink: /calendar.html
 type: info
 header_text: Upcoming events
 calendar: true
