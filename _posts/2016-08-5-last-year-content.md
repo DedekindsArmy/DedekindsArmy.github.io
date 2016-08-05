@@ -11,7 +11,7 @@ What follows is a recompilation of the notes and exercises they made available a
 #### Elementary Number Theory
 A short review of divisibility, plus some interesting problems.
 
-<h2 style="margin-bottom: 0;">Content</h2>
+<h4 style="margin-bottom: 0;">Content</h4>
 <ul style="margin-top: 0;">
 	<li>The basis representation theorem.</li>
 	<li>Euclid's division lemma.</li>
@@ -29,7 +29,7 @@ A short review of divisibility, plus some interesting problems.
 ### Set Theory
 A gentle introduction to axiomatic set theory.
 
-<h2 style="margin-bottom: 0;">Content</h2>
+<h4 style="margin-bottom: 0;">Content</h4>
 <ul style="margin-top: 0;">
 	<li>An introduction to formal mathematics: the axiomatic schema, naive Set Theory and Russell's Paradox.</li>
 	<li>The axioms of Set Theory.</li>
@@ -60,7 +60,7 @@ A gentle introduction to axiomatic set theory.
 ### Equinumerability
 Basic results about countable and uncountable sets.
 
-<h2 style="margin-bottom: 0;">Content</h2>
+<h4 style="margin-bottom: 0;">Content</h4>
 <ul style="margin-top: 0;">
 	<li>Schröder-Bernstein's theorem.</li>
 	<li> Countability.</li>
@@ -72,7 +72,7 @@ Basic results about countable and uncountable sets.
 ### Computability
 The basic definitions and results regarding the study of what can and cannot be computed by an algorithm.
 
-<h2 style="margin-bottom: 0;">Content</h2>
+<h4 style="margin-bottom: 0;">Content</h4>
 <ul style="margin-top: 0;">
 	<li>Turing Machines.</li>
 	<li>Uncomputability. The diagonal function and the halting problem.</li>
