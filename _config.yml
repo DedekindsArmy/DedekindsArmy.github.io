@@ -19,15 +19,11 @@ description: >
 copyright: Dedekind's Army
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
-intro: false         # Tip: Remove the span from site_heading if intro is set to true
+intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.me/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
+    Welcome to Dedekind's Army! Here you will find lecture notes and information about future
+    classes.
 
 permalink: /:title.html
 
@@ -48,9 +44,9 @@ github_username: Dedekind's Army
 facebook_id: yourusername
 
 favicon: true
-favicon_location: "images/favicon.ico"
+favicon_location: "images/icons/favicon.ico"
 
-profile_picture: images/temp.png
+profile_picture: images/DALogo.png
 paginate: 5
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
