@@ -39,9 +39,9 @@ A gentle introduction to axiomatic set theory.
 	<li>Equivalence. Finite and infinite sets.</li>
 </ul>
 
-<span class="capsule">[Lecture notes](https://es.sharelatex.com/project/56608d3002995c26044b3dcd)</span>
+<span class="capsule">[Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/view?usp=sharing)</span>
 
-#### Exercises:
+<!--#### Exercises:
 **Lecture 1 (20/11/2015)**
 
 * Show that functions are well-formed sets according to the axioms of Set Theory (Remember, a function from A to B is defined as a subset of $A\times B$ satisfying certain properties.)
@@ -54,7 +54,7 @@ A gentle introduction to axiomatic set theory.
 * Show that the function $+:\omega^{2} \to \omega$ such that $+(n,0) = n$ and $+(n,m^{+}) = +(n,m) ^{+}$ is associative and commutative.
 * Prove that if $a + b < a + c$ then $b < c$ (Remember, $a<c \iff a\in c$.)
 * Prove that $\omega$ is transitive; that is, that $n\in \omega \implies n \subset \omega$.
-* Prove that $\omega$ is well-ordered; that is, that each nonempty subset has a least element.
+* Prove that $\omega$ is well-ordered; that is, that each nonempty subset has a least element.-->
 
 
 ### Equinumerability
@@ -67,7 +67,7 @@ Basic results about countable and uncountable sets.
 	<li>Uncountability.</li>
 </ul>
 
-<span class="capsule">[Lecture notes & exercises](https://es.sharelatex.com/project/566b6f9928e89a4623910f85)</span>
+<span class="capsule">[Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-QXEzUkgySXRBMTQ/view?usp=sharing)</span>
 
 ### Computability
 The basic definitions and results regarding the study of what can and cannot be computed by an algorithm.
@@ -79,6 +79,6 @@ The basic definitions and results regarding the study of what can and cannot be 
 	<li>The productivity function.</li>
 </ul>
  
-<span class="capsule">[Lecture notes & exercises](https://es.sharelatex.com/project/5672ebdec2659588184db7d1)</span>
+<span class="capsule">[Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing)</span>
 <span class="capsule">[Turing Machine Compiler](https://github.com/Jsevillamol/PythonUTM)</span>
 
