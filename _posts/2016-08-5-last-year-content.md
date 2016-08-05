@@ -10,6 +10,8 @@ What follows is a recompilation of the notes and exercises they made available a
 
 #### Elementary Number Theory
 
+A short review of divisibility, plus some interesting problem.
+
 #### Content
 
 * The basis representation theorem.
@@ -41,7 +43,7 @@ A gentle introduction to axiomatic set theory.
 #### Exercises:
 **Lecture 1 (20/11/2015)**
 
-* Show that functions are well-formed sets according to the axioms of Set Theory. (Remember, a function from A to B is defined as a subset of $A\times B$ satisfying certain properties)
+* Show that functions are well-formed sets according to the axioms of Set Theory (Remember, a function from A to B is defined as a subset of $A\times B$ satisfying certain properties.)
 * Show that $A^{B \times C}$ (the set of all functions from $B \times C$ to $A$) is a well-formed set
 * We define $\times_{i\in I}A_i$ as the cartesian product of every member of a family $A_i$ indexed by the set $I$. Show that $\times_{i\in I}A_i$ is a well-formed set.
 * Show that if $I$ is a non zero natural number and none of the $A_i$ is the empty set then $\times_{i\in I}A_i$ is not empty. Can we prove this for $I = \omega$?
@@ -49,7 +51,7 @@ A gentle introduction to axiomatic set theory.
 **Lecture 2 (4/12/2015)**
 
 * Show that the function $+:\omega^{2} \to \omega$ such that $+(n,0) = n$ and $+(n,m^{+}) = +(n,m) ^{+}$ is associative and commutative.
-* Prove that if $a + b < a + c$ then $b < c$. (Remember, $a<c \iff a\in c$)
+* Prove that if $a + b < a + c$ then $b < c$ (Remember, $a<c \iff a\in c$.)
 * Prove that $\omega$ is transitive; that is, that $n\in \omega \implies n \subset \omega$.
 * Prove that $\omega$ is well-ordered; that is, that each nonempty subset has a least element.
 
