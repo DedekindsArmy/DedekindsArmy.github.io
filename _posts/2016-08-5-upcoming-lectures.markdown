@@ -4,7 +4,7 @@ author: iqcd
 ---
 
 ### Jorney Through $\pi$ 
-**Taught by**: Diego Chicharro Gordo.
+**Lecturer**: Diego Chicharro Gordo.
 
 **Date**: pending.
 
