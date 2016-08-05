@@ -1,14 +1,16 @@
 ---
-title: 2014-2015's work 
+title: New course, new web
 author: iqcd
 ---
 
-**New course, new web**. I'll put here what we did:
+First of all, a list of links to the previous year's lecture notes:
 
 * [Set theory](pdffiles/set_theory.pdf).
 * [Equinumerability](pdffiles/equinumerability.pdf).
 * [Basic computability](pdffiles/basic_computability.pdf) + [Turing Machine Compiler](https://github.com/Jsevillamol/PythonUTM).
 * [Number Theory](pdffiles/number_theory_lec1.pdf) + [Problems](pdffiles/number_theory_assig1.pdf) + [Solutions](pdffiles/number_theory_sol1.pdf).
+
+See the [next post]({% post_url 2016-08-4-last-year-content %}) for an in-depth recompilation, with summaries and extra exercises.
 
 We were planning to do, apart from the classes, some olympiad-like competitions, by teams. Discuss below whether you like the idea. Here is an example of problem:
 
