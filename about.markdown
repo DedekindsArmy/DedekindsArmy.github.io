@@ -28,7 +28,7 @@ Interested in collaborating or attending? [Get in touch with us!](mailto:dedekin
 
 [!image_here Diego Chicharro]
 
-Diego Chicharro is a undergraduate student at the Complutense University of Madrid, studying a joined degree on Mathematics and Physics. 
+Diego Chicharro is a undergraduate student at the Complutense University of Madrid, studying a joined degree in Mathematics and Physics. 
 
 He aim to become a mathematical researcher in a field that is still to be determined. Within his main interests lie number theory, complex analysis, field theory and topology.
 
