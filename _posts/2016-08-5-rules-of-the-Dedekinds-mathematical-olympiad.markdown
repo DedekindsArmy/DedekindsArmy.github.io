@@ -31,5 +31,3 @@ author: iqcd
 is convergent, and find its limit.
 
 * In a mixed problem, the 10 points **split** in two: 5 points for the result-like part, and 5 points for the proof-like part. 
-
-
