@@ -33,7 +33,7 @@ Classes taught: Number theory
 ### Jaime Sevilla
 *Cofounder, organizer and teacher*
 
-![Jaime Sevilla](/Images/Jsevillamol.jpg)
+![Jaime Sevilla](/images/Jsevillamol.jpg)
 
 Jaime Sevilla is a Mathematics and Computer Engineering undergrad student in the Universidad Complutense de Madrid, Spain.
 
