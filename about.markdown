@@ -32,7 +32,7 @@ Diego Chicharro is a undergraduate student at the Complutense University of Madr
 
 He aim to become a mathematical researcher in a field that is still to be determined. Within his main interests lie number theory, complex analysis, field theory and topology.
 
-He also like spending time researching about elementary number theory, summation methods, and asymptotics, and thoroughly enjoy solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.  
+He also likes spending time researching about elementary number theory, summation methods, and asymptotics, and thoroughly enjoys solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.  
 
 Computing *definite* integrals in free time is something that he cannot help.
 
