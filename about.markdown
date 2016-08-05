@@ -28,13 +28,12 @@ Interested in collaborating or attending? [Get in touch with us!](dedekindsarmy@
 
 [!image_here Diego Chicharro]
 
-Classes taught:
-* Number theory
+Classes taught: Number theory
 
 ### Jaime Sevilla
 *Cofounder, organizer and teacher*
 
-[!Jsevillamol.jpg Jaime Sevilla]
+![Jaime Sevilla](/Images/Jsevillamol.jpg)
 
 Jaime Sevilla is a Mathematics and Computer Engineering undergrad student in the Universidad Complutense de Madrid, Spain.
 
@@ -46,10 +45,7 @@ His research interests lie in logic, computability, complexity, probability, mac
 
 In Dedekind's Army, he teaches subjects related to the research of foundational safe artificial intelligence. Most of his classes fall within the scope of a topic listed in [MIRI's research agenda](https://intelligence.org/research-guide/).
 
-Classes taught:
-* Set theory
-* Equinumerability
-* Computability
+Classes taught: Set theory - Equinumerability - Computability
 
 #### Contact:
 [Email>](jsevillamol@outlook.com)
@@ -57,5 +53,4 @@ Classes taught:
 ## Contributors
 ### Gonzalo Gómez
 
-Classes taught:
-* Axiomatic origami
+Classes taught: Axiomatic origami
