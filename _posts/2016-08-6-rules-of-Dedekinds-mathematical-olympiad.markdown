@@ -1,5 +1,5 @@
 ---
-title: Rules of the Dedekind's Mathematical Olympiad (DMO)
+title: Rules of Dedekind's Mathematical Olympiad (DMO)
 author: iqcd
 ---
 
