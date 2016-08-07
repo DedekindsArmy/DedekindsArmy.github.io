@@ -1,5 +1,5 @@
 ---
-title: Last year's content
+title: Last year's content old
 author: Jsevillamol
 ---
 Last year (course 2015-2016) we had some fantastic teachers who eagerly provided us with interesting classes on very diverse topics.
@@ -20,9 +20,7 @@ A short review of divisibility, plus some interesting problems.
 	<li>The Fundamental Theorem of Arithmetic (FTA).</li>
 </ul>
 
-#### [Lecture notes](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
-<iframe src="https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/preview" width="640" height="480"></iframe>
-
+<span class="capsule">[Lecture notes](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)</span>
 <span class="capsule">[Exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-SHJQME9iV2s1bm8/view?usp=sharing)</span>
 <span class="capsule">[Solutions](https://drive.google.com/file/d/0ByOY0ltwG6s-RXdBUjU4Wjh3cmM/view?usp=sharing)</span>
 
@@ -41,10 +39,23 @@ A gentle introduction to axiomatic set theory.
 	<li>Equivalence. Finite and infinite sets.</li>
 </ul>
 
+<span class="capsule">[Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/view?usp=sharing)</span>
 
-#### [Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/view?usp=sharing)
+<!--#### Exercises:
+**Lecture 1 (20/11/2015)**
 
-<iframe src="https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/preview" width="640" height="480"></iframe>
+* Show that functions are well-formed sets according to the axioms of Set Theory (Remember, a function from A to B is defined as a subset of $A\times B$ satisfying certain properties.)
+* Show that $A^{B \times C}$ (the set of all functions from $B \times C$ to $A$) is a well-formed set
+* We define $\times_{i\in I}A_i$ as the cartesian product of every member of a family $A_i$ indexed by the set $I$. Show that $\times_{i\in I}A_i$ is a well-formed set.
+* Show that if $I$ is a non zero natural number and none of the $A_i$ is the empty set then $\times_{i\in I}A_i$ is not empty. Can we prove this for $I = \omega$?
+
+**Lecture 2 (4/12/2015)**
+
+* Show that the function $+:\omega^{2} \to \omega$ such that $+(n,0) = n$ and $+(n,m^{+}) = +(n,m) ^{+}$ is associative and commutative.
+* Prove that if $a + b < a + c$ then $b < c$ (Remember, $a<c \iff a\in c$.)
+* Prove that $\omega$ is transitive; that is, that $n\in \omega \implies n \subset \omega$.
+* Prove that $\omega$ is well-ordered; that is, that each nonempty subset has a least element.-->
+
 
 ### Equinumerability
 Basic results about countable and uncountable sets.
@@ -56,9 +67,7 @@ Basic results about countable and uncountable sets.
 	<li>Uncountability.</li>
 </ul>
 
-#### [Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-QXEzUkgySXRBMTQ/view?usp=sharing)
-
-<iframe src="https://drive.google.com/file/d/0ByOY0ltwG6s-QXEzUkgySXRBMTQ/preview" width="640" height="480"></iframe>
+<span class="capsule">[Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-QXEzUkgySXRBMTQ/view?usp=sharing)</span>
 
 ### Computability
 The basic definitions and results regarding the study of what can and cannot be computed by an algorithm.
@@ -70,9 +79,6 @@ The basic definitions and results regarding the study of what can and cannot be 
 	<li>The productivity function.</li>
 </ul>
  
-#### [Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing)
- 
- <iframe src="https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/preview" width="640" height="480"></iframe>
- 
+<span class="capsule">[Lecture notes & exercises](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing)</span>
 <span class="capsule">[Turing Machine Compiler](https://github.com/Jsevillamol/PythonUTM)</span>
 
