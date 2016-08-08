@@ -23,24 +23,6 @@ Interested in collaborating or attending? [Get in touch with us!](mailto:dedekin
 
 ## The team
 
-### Diego Chicharro
-*Cofounder, site manager and teacher*
-
-[!image_here Diego Chicharro]
-
-Diego Chicharro is an undergraduate student at the Complutense University of Madrid, studying a joint degree in Mathematics and Physics.
-
-He aims to become a mathematical researcher in a field that is still to be determined. Within his main interests lie number theory, complex analysis, field theory and topology.
-
-He also likes spending time researching elementary number theory, summation methods, and asymptotics, and thoroughly enjoys solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.
-
-Computing *definite* integrals is something that he cannot help doing in his free time.
-
-**Classes taught:**
-[Number theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
-
-Contact **[by mail](mailto:iqcd13g0@gmail.com)**
-
 ### Jaime Sevilla
 *Cofounder, organizer and teacher*
 
@@ -62,6 +44,24 @@ In Dedekind's Army, he teaches subjects related to the research of foundational 
 [Computability](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing)
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
+
+### Diego Chicharro
+*Cofounder, site manager and teacher*
+
+[!image_here Diego Chicharro]
+
+Diego Chicharro is an undergraduate student at the Complutense University of Madrid, studying a joint degree in Mathematics and Physics.
+
+He aims to become a mathematical researcher in a field that is still to be determined. Within his main interests lie number theory, complex analysis, field theory and topology.
+
+He also likes spending time researching elementary number theory, summation methods, and asymptotics, and thoroughly enjoys solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.
+
+Computing *definite* integrals is something that he cannot help doing in his free time.
+
+**Classes taught:**
+[Number theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
+
+Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
 ## Contributors
 
