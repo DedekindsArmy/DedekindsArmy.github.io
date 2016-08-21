@@ -18,6 +18,6 @@ We were planning to do, apart from the classes, some olympiad-like competitions,
 <span class="capsule">**Problem.**</span> Compute the sum
 \\[\sum_{n=0}^\infty\frac{\cos(n)}{2^n}\\]
 
-However, do not expect the problems to be so easy!
+However, do not expect the problems in the contest to be so easy!
 
-From now on, we will publish the lecture notes, problems, solutions, etc. in this blog. If you are a lecture, and want to make some lecture notes, we encourage you to use our **[template](https://drive.google.com/file/d/0ByOY0ltwG6s-WUZlZXQ2MTdrZ0U/view?usp=sharing)**.
+From now on, we will publish the lecture notes, problems, solutions, etc. in this blog. If you are a lecturer, and want to make some lecture notes, we encourage you to use our **[template](https://drive.google.com/file/d/0ByOY0ltwG6s-WUZlZXQ2MTdrZ0U/view?usp=sharing)**.

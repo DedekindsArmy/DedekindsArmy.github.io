@@ -6,14 +6,14 @@ baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
-    Dedekind's Army<span class="faded">'s blog</span>
+    Dedekind<span class="faded">'s Army</span>
 
 email: dedekindsarmy@gmail.com
 author: About us
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    Dedekind's Army's blog
+    Official webpage of Universidad Complutense de Madrid's extracurricular math club.
 
 # This will what will show against &copy; in the footer
 copyright: Dedekind's Army
@@ -22,8 +22,7 @@ copyright: Dedekind's Army
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Welcome to Dedekind's Army! Here you will find lecture notes and information about future
-    classes.
+    Math classes and contests in Universidad Complutense de Madrid. Check out the <a href="/about"><u>About section</u></a> for more info.
 
 permalink: /:title.html
 
