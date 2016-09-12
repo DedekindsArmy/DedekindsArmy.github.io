@@ -19,6 +19,8 @@ a way of sharing their passions.
 2. Many students are considering pursuing a life as teachers in college or institutes. In DA, they can
 try for themselves what teaching is like, and build the communication skills needed for it.
 
+This webpage serves as both a repository of lecture notes and a central hub to announce and organize [events](/events).
+
 Interested in collaborating or attending? [Get in touch with us!](mailto:dedekindsarmy@gmail.com)
 
 ## The team
@@ -67,4 +69,13 @@ Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
 ### Gonzalo Gómez
 
-**Classes taught:** Axiomatic origami
+Gonzalo Gómez is a studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
+
+The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
+
+Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
+
+His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
+
+**Classes taught:**
+Axiomatic Origami - Groups in Games
