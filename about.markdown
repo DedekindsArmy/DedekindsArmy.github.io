@@ -28,7 +28,7 @@ Interested in collaborating or attending? [Get in touch with us!](mailto:dedekin
 ### Jaime Sevilla
 *Cofounder, organizer and teacher*
 
-![Jaime Sevilla](/images/Jsevillamol.jpg)
+<img src="/images/Jsevillamol.jpg" alt="Jaime Sevilla" style="width: 200px;"/>
 
 Jaime Sevilla is a Mathematics and Computer Engineering undergrad student in the Universidad Complutense de Madrid, Spain.
 
@@ -49,8 +49,6 @@ Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
 ### Diego Chicharro
 *Cofounder, site manager and teacher*
-
-[!image_here Diego Chicharro]
 
 Diego Chicharro is an undergraduate student at the Complutense University of Madrid, studying a joint degree in Mathematics and Physics.
 
