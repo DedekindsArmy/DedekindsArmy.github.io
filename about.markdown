@@ -19,7 +19,7 @@ a way of sharing their passions.
 2. Many students are considering pursuing a life as teachers in college or institutes. In DA, they can
 try for themselves what teaching is like, and build the communication skills needed for it.
 
-This webpage serves as both a repository of lecture notes and a central hub to announce and organize [events](/events).
+This webpage serves as both a repository of lecture notes and a central hub to announce and organize [events](/calendar).
 
 Interested in collaborating or attending? [Get in touch with us!](mailto:dedekindsarmy@gmail.com)
 
