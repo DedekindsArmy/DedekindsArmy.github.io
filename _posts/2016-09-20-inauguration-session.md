@@ -4,8 +4,8 @@ author: Jsevillamol
 ---
 We are ready to start our first session with lots of enthusiasm!
 
-<img src="https://document-export.canva.com/DAB_Wkdfz5w/19/preview/0001-41976760.png" alt="Poster" style="width: 750px;"/>
-The session will take place in the room TBD of the Math Faculty of Universidad Complutense de Madrid, the 4th of October from 15:30 to 16:30.
+<img src="https://document-export.canva.com/DAB_Wkdfz5w/20/preview/0001-42.png" alt="Poster" style="width: 750px;"/>
+The session will take place in the room 102 of the Math Faculty of Universidad Complutense de Madrid, the 4th of October from 15:30 to 16:30.
 
 In this session we will start by getting to know each other, and then we will explain how Dedekind's Army is going to work (for those who cannot assist, do not worry, there will be a detailed post here later). This introduction will last 15 minutes.
 
