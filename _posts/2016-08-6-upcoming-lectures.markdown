@@ -15,7 +15,7 @@ In this short lecture we'll examine a rigorous definition and derive several nic
 ### Löb's theorem, Gödel II and vice versa
 **Lecturer**: Jaime Sevilla Molina
 
-**Date**: pending
+**Date**: 04/10/2016
 
 **Abstract**:
 The goal of this class is to present and discuss two central results of modern logic, Löb's theorem and Gödel II.
