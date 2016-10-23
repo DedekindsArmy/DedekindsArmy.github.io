@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dedekind&#39;s Army - Articles</title>
-    <description>Official webpage of Universidad Complutense de Madrid&#39;s extracurricular math club.
+    <title>Dedekind's Army - Articles</title>
+    <description>Official webpage of Universidad Complutense de Madrid's extracurricular math club.
 </description>
     <link>
-    http://dedekindsarmy.github.io</link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>A guide for contributors of DA</title>
+        
+          <description>&lt;p&gt;Are you interested in giving a class in Dedekind’s Army? Be welcome to our step-by-step guide of what to do, with some advices from our seasoned lecturers!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 17 Oct 2016 00:00:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/guide-for-contributors.html</link>
+        <guid isPermaLink="true">http://localhost:4000/guide-for-contributors.html</guid>
+      </item>
+      
     
       
       <item>
@@ -17,14 +32,14 @@
         
         <pubDate>Sun, 16 Oct 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/homology.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/homology.html</guid>
+        http://localhost:4000/homology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/homology.html</guid>
       </item>
       
     
       
       <item>
-        <title>Group theory applied to the Rubik&#39;s cube</title>
+        <title>Group theory applied to the Rubik's cube</title>
         
           <description>&lt;p&gt;&lt;strong&gt;Lecturer&lt;/strong&gt;: Roberto Tomé&lt;/p&gt;
 
@@ -32,8 +47,8 @@
         
         <pubDate>Fri, 14 Oct 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/rubiks-cube.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/rubiks-cube.html</guid>
+        http://localhost:4000/rubiks-cube.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rubiks-cube.html</guid>
       </item>
       
     
@@ -47,8 +62,8 @@
         
         <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/arbital.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/arbital.html</guid>
+        http://localhost:4000/arbital.html</link>
+        <guid isPermaLink="true">http://localhost:4000/arbital.html</guid>
       </item>
       
     
@@ -62,8 +77,8 @@
         
         <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/presentation-and-logistics.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/presentation-and-logistics.html</guid>
+        http://localhost:4000/presentation-and-logistics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/presentation-and-logistics.html</guid>
       </item>
       
     
@@ -77,8 +92,8 @@
         
         <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/godel-lob-viceversa.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/godel-lob-viceversa.html</guid>
+        http://localhost:4000/godel-lob-viceversa.html</link>
+        <guid isPermaLink="true">http://localhost:4000/godel-lob-viceversa.html</guid>
       </item>
       
     
@@ -92,8 +107,8 @@
         
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/inauguration-session.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/inauguration-session.html</guid>
+        http://localhost:4000/inauguration-session.html</link>
+        <guid isPermaLink="true">http://localhost:4000/inauguration-session.html</guid>
       </item>
       
     
@@ -108,14 +123,14 @@
         
         <pubDate>Sat, 06 Aug 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/upcoming-lectures.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/upcoming-lectures.html</guid>
+        http://localhost:4000/upcoming-lectures.html</link>
+        <guid isPermaLink="true">http://localhost:4000/upcoming-lectures.html</guid>
       </item>
       
     
       
       <item>
-        <title>Rules of Dedekind&#39;s Mathematical Olympiad (DMO)</title>
+        <title>Rules of Dedekind's Mathematical Olympiad (DMO)</title>
         
           <description>&lt;ul&gt;
   &lt;li&gt;Depending on the number of olympic users, the teams will have a size from 2 to 4 people.&lt;/li&gt;
@@ -127,14 +142,14 @@
         
         <pubDate>Sat, 06 Aug 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/rules-of-Dedekinds-mathematical-olympiad.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/rules-of-Dedekinds-mathematical-olympiad.html</guid>
+        http://localhost:4000/rules-of-Dedekinds-mathematical-olympiad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rules-of-Dedekinds-mathematical-olympiad.html</guid>
       </item>
       
     
       
       <item>
-        <title>Last year&#39;s content</title>
+        <title>Last year's content</title>
         
           <description>&lt;p&gt;Last year (course 2015-2016) we had some fantastic teachers who eagerly provided us with interesting classes on very diverse topics.&lt;/p&gt;
 
@@ -142,8 +157,8 @@
         
         <pubDate>Fri, 05 Aug 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/last-year-content.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/last-year-content.html</guid>
+        http://localhost:4000/last-year-content.html</link>
+        <guid isPermaLink="true">http://localhost:4000/last-year-content.html</guid>
       </item>
       
     
@@ -157,8 +172,8 @@
         
         <pubDate>Thu, 04 Aug 2016 00:00:00 +0200</pubDate>
         <link>
-        http://dedekindsarmy.github.io/new-course-new-web.html</link>
-        <guid isPermaLink="true">http://dedekindsarmy.github.io/new-course-new-web.html</guid>
+        http://localhost:4000/new-course-new-web.html</link>
+        <guid isPermaLink="true">http://localhost:4000/new-course-new-web.html</guid>
       </item>
       
     
