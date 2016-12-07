@@ -43,7 +43,8 @@ In Dedekind's Army, he teaches subjects related to the research of foundational 
 **Classes taught:**
 [Set theory](https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/view?usp=sharing) -
 [Equinumerability](https://drive.google.com/file/d/0ByOY0ltwG6s-QXEzUkgySXRBMTQ/view?usp=sharing) -
-[Computability](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing)
+[Computability](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing) -
+[Löb's and Gödel's Theorems]({% post_url 2016-10-04-godel-lob-viceversa %})
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
@@ -74,4 +75,15 @@ Meanwhile, he naively tries to find applications for mathematics in something th
 His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
 
 **Classes taught:**
-Axiomatic Origami - Groups in Games
+[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
+
+### Patricia Contreras
+
+Patricia Contreras Tejada is a PhD student in the mathQI group at Universidad Complutense de Madrid. She studied Mathematics and Physics MSci at the University of Bristol and Philosophy of Physics MSt at the University of Oxford.
+
+Patricia is interested in applying quantum information theory to the foundations of quantum mechanics, whether from a mathematical, scientific or conceptual viewpoint.
+
+In her spare time she plays the piano and sings in a barbershop chorus, The Barbees.
+
+**Classes taught:**
+[Bell's Theorem]({% post_url 2016-12-07-bells-theorem %})
