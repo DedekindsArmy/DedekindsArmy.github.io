@@ -20,4 +20,4 @@ Quantum mechanics is the best theory of physics to date. It is also the subject 
 - R. Munroe, [*Bell's theorem*](https://xkcd.com/1591/)
 
 ## Promotional poster
- <img src="https://document-export.canva.com/DACGsFbtNnA/15/preview/0001-42.png" alt="Poster" style="width: 750px;"/>
+ <img src="https://document-export.canva.com/DACGsFbtNnA/16/preview/0001-92714728.png" alt="Poster" style="width: 750px;"/>
