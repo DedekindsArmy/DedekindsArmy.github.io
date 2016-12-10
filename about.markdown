@@ -48,6 +48,7 @@ In Dedekind's Army, he teaches subjects related to the research of foundational 
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
+<!--
 ### Diego Chicharro
 *Cofounder, site manager and teacher*
 
@@ -61,6 +62,7 @@ He also likes spending time researching elementary number theory, summation meth
 [Elementary Number theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
 
 Contact **[by mail](mailto:iqcd13g0@gmail.com)**
+-->
 
 ## Contributors
 
