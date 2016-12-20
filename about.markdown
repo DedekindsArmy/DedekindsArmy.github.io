@@ -100,7 +100,7 @@ Guillermo Sánchez Arellano is a Mathematics undergrad student in the Universida
 
 He is studying the fourth course of the degree and he has discovered that his interest lies on foundational math (things like sets, logic and categories), topology and algebra, but he knows that mathematics still has a lot of amazing things to show him.
 
-He is collaborating now on Mathifold, a project in the University that tries to give another, “more visual”, point of view of math for their students. He also is studying English in CSIM and, in his spare time, he learns how to play guitar and is a monitor of children in his neighborhood.
+He is collaborating now on Mathifold, a project in the University that tries to give another, “more visual”, point of view of math for their students. He also is studying English in CSIM and, in his spare time, he learns how to play guitar and is an instructor of children in his neighborhood.
 
 **Classes taught:**
 [Banach-Tarski's Theorem]({% post_url 2016-11-22-banach-tarski %})
