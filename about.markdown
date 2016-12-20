@@ -26,7 +26,7 @@ Interested in collaborating or attending? [Get in touch with us!](mailto:dedekin
 ## The core team
 
 ### Jaime Sevilla
-*Cofounder, organizer and teacher*
+*Cofounder, site manager, organizer and teacher*
 
 <img src="/images/Jsevillamol.jpg" alt="Jaime Sevilla" style="width: 200px;"/>
 
@@ -50,9 +50,12 @@ All the beautiful posters you see advertising DA's classes are designed by him.
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
-<!--
+## Contributors
+
+Dedekind's Army would not be anything without its contributors. The following people have generously volunteered their time and effort to help Dedekind's Army become a successful project. We are proud to have collaborated with such a select group of people, and we hope to continue helping each other in the future.
+
 ### Diego Chicharro
-*Cofounder, site manager and teacher*
+*Cofounder and teacher*
 
 Diego Chicharro is an undergraduate student at the Complutense University of Madrid, studying a joint degree in Mathematics and Physics.
 
@@ -60,13 +63,12 @@ He aims to become a mathematical researcher in a field that is still to be deter
 
 He also likes spending time researching elementary number theory, summation methods, and asymptotics, and thoroughly enjoys solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.
 
+We ought the existence of this blog to his efforts.
+
 **Classes taught:**
 [Elementary Number theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
 
 Contact **[by mail](mailto:iqcd13g0@gmail.com)**
--->
-
-## Contributors
 
 ### Patricia Contreras
 
