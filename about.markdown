@@ -23,7 +23,7 @@ This webpage serves as both a repository of lecture notes and a central hub to a
 
 Interested in collaborating or attending? [Get in touch with us!](mailto:dedekindsarmy@gmail.com)
 
-## The team
+## The core team
 
 ### Jaime Sevilla
 *Cofounder, organizer and teacher*
@@ -39,6 +39,8 @@ He has also lead a couple of entrepreneurship-related projects and has won sever
 His research interests lie in logic, computability, complexity, probability, machine learning and the theoretical foundations of artificial intelligence, among other things.
 
 In Dedekind's Army, he teaches subjects related to the research of foundational safe artificial intelligence. Most of his classes fall within the scope of the topics listed in [MIRI's research agenda](https://intelligence.org/research-guide/).
+
+All the beautiful posters you see advertising DA's classes are designed by him.
 
 **Classes taught:**
 [Set theory](https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/view?usp=sharing) -
@@ -66,19 +68,6 @@ Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
 ## Contributors
 
-### Gonzalo Gómez
-
-Gonzalo Gómez is a studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
-
-The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
-
-Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
-
-His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
-
-**Classes taught:**
-[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
-
 ### Patricia Contreras
 
 Patricia Contreras Tejada is a PhD student in the mathQI group at Universidad Complutense de Madrid. She studied Mathematics and Physics MSci at the University of Bristol and Philosophy of Physics MSt at the University of Oxford.
@@ -89,3 +78,27 @@ In her spare time she plays the piano and sings in a barbershop chorus, The Barb
 
 **Classes taught:**
 [Bell's Theorem]({% post_url 2016-12-07-bells-theorem %})
+
+### Gonzalo Gómez
+
+Gonzalo Gómez studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
+
+The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
+
+Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
+
+His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
+
+**Classes taught:**
+[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
+
+### Guillermo Sánchez
+
+Guillermo Sánchez Arellano is a Mathematics undergrad student in the Universidad Complutense de Madrid.
+
+He is studying the fourth course of the degree and he has discovered that his interest lies on foundational math (things like sets, logic and categories), topology and algebra, but he knows that mathematics still has a lot of amazing things to show him.
+
+He is collaborating now on Mathifold, a project in the University that tries to give another, “more visual”, point of view of math for their students. He also is studying English in CSIM and, in his spare time, he learns how to play guitar and is a monitor of children in his neighborhood.
+
+**Classes taught:**
+[Banach-Tarski's Theorem]({% post_url 2016-11-22-banach-tarski %})
