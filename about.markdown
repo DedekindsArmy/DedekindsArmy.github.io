@@ -94,6 +94,17 @@ His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Cha
 **Classes taught:**
 [Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
 
+### Juan José Madrigal
+
+<img src="https://avatars3.githubusercontent.com/u/16442988?v=3&s=400" alt="Juanjo Madrigal" style="width: 200px;"/>
+
+Juan José Madrigal is a mathematician affiliated to the UCM interested in educational technology, willing to explore new ways to bring advanced mathematics to the world.
+
+He is currently leading the [Mathifold project](http://mathifold.org/), whose goal is to make mathematics accesible to everybody, completely free, based on open collaboration and the best pedagogical tools.
+
+**Classes taught:**
+[Homology]({% post_url 2016-10-16-homology %})
+
 ### Guillermo Sánchez
 
 Guillermo Sánchez Arellano is a Mathematics undergrad student in the Universidad Complutense de Madrid.
