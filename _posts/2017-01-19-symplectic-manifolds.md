@@ -4,9 +4,9 @@ author: Jsevillamol
 ---
 **Lecturer**: Guillermo Gallego
 
-**Date**: 16/11/2017
+**Date**: 22/02/2017 (date subject to change)
 
-**Time**: 16:30
+**Time**: 17:00
 
 **Place**: Room 103
 
