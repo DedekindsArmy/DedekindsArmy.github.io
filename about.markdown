@@ -81,6 +81,19 @@ In her spare time she plays the piano and sings in a barbershop chorus, The Barb
 **Classes taught:**
 [Bell's Theorem]({% post_url 2016-12-07-bells-theorem %})
 
+### Guillermo Gallego
+
+<img src="/images/GGallego.jpg" alt="Guillermo Gallego" style="width: 200px;"/>
+
+Guillermo Gallego Sánchez is an undergraduate student of Double Degree in Mathematics and Physics at Universidad Complutense de Madrid.
+
+Guillermo is at the fourth year of five of the Double Degree and currently his interests are Lie groups and its relations to physics (elementary particles, spin groups, anyons), algebraic and symplectic topology, classical mechanics and dynamical systems. He is also a philosophy reader, defines himself as a materialist (in the philosophical way) and is interested on the philosophy of sciences.
+
+He is a guitar player and he is the secretary of Asociación Cultural Lewis Carroll, a cultural and social club of the Faculty of Mathematics, which organizes several activities for students like film projections, a reading club, talks and jam sessions.
+
+**Classes taught:**
+[Symplectic geometry]({% post_url 2017-01-19-symplectic-manifolds %})
+
 ### Gonzalo Gómez
 
 Gonzalo Gómez studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.

@@ -1,5 +1,5 @@
 ---
-title: After Infinity
+title: After infinity
 author: Jsevillamol
 ---
 **Lecturer**: Xingqiang Chen
@@ -11,9 +11,9 @@ author: Jsevillamol
 **Place**: Room 103
 
 **Abstract**:
- What does infinite mean? Have you ever seen something infinite? Do you think infinite exists outside of mathematics? How many types of infinity are there? Can we compare the sizes of different infinities?
+ What does infinite mean? Have you ever seen something infinite? Do you think infinity exists outside of mathematics? How many types of infinity are there? Can we compare the sizes of different infinities?
 
-  It turns out that there is not a sinle kind of infinite, but an infinity of them! One of the most common sets of infinite is the set of the naturals. But, do you know if there is some set bigger or smaller than it? The reals? And something bigger than that one? Or something between them? In this talk we will explore this questions and others, to try to understand as much as possible about the notion of infinity.
+  It turns out that there is not a single kind of infinite, but an infinity of them! One of the most common sets of infinite is the set of the naturals. But, do you know if there is some set bigger or smaller than it? The reals? And something bigger than that one? Or something between them? In this talk we will explore this questions and others, to try to understand as much as possible about the notion of infinity.
 
 ## Bibliography
 * J. Ferreiros. *Fundamentos para una teoría general de conjuntos*.
