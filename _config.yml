@@ -48,11 +48,13 @@ favicon_location: "images/icons/favicon.ico"
 profile_picture: images/DALogo.png
 paginate: 5
 paginate_path: "/page/:num"
-tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
 og_image: "images/accent.png" # This will show in facebook thumbnails
 twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
+
+# Google analytics
+google_analytics: 'UA-91102004-1'
 
 ####################################
 ####################################

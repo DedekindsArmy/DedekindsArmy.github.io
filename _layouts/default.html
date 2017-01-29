@@ -62,6 +62,9 @@
     {% endif %}
 </head>
 <body>
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
     <div class="wrapper">
         <div class="main">
             <nav class="navbar">
