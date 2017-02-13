@@ -4,7 +4,7 @@ author: Jsevillamol
 ---
 **Lecturer**: Guillermo Gallego
 
-**Date**: 22/02/2017 (date subject to change)
+**Date**: 22/02/2017
 
 **Time**: 17:00
 
