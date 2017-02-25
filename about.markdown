@@ -50,6 +50,20 @@ All the beautiful posters you see advertising DA's classes are designed by him.
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
+### Gonzalo Gómez
+*Core member, teacher and organizer of the Dedekind Olympiad*
+
+Gonzalo Gómez studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
+
+The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
+
+Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
+
+His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
+
+**Classes taught:**
+[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
+
 ## Contributors
 
 Dedekind's Army would not be anything without its contributors. The following people have generously volunteered their time and effort to help Dedekind's Army become a successful project. We are proud to have collaborated with such a select group of people, and we hope to continue helping each other in the future.
@@ -93,19 +107,6 @@ He is a guitar player and he is the secretary of Asociación Cultural Lewis Carr
 
 **Classes taught:**
 [Symplectic geometry]({% post_url 2017-01-19-symplectic-manifolds %})
-
-### Gonzalo Gómez
-
-Gonzalo Gómez studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
-
-The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
-
-Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
-
-His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
-
-**Classes taught:**
-[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
 
 ### Juan José Madrigal
 
