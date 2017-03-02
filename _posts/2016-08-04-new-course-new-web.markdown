@@ -10,7 +10,7 @@ First of all, a list of links to the previous year's lecture notes:
 * [Basic computability](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing) + [Turing Machine Compiler](https://github.com/Jsevillamol/PythonUTM).
 * [Number Theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing) + [Problems](https://drive.google.com/file/d/0ByOY0ltwG6s-SHJQME9iV2s1bm8/view?usp=sharing) + [Solutions](https://drive.google.com/file/d/0ByOY0ltwG6s-RXdBUjU4Wjh3cmM/view?usp=sharing).
 
-See the [next post]({% post_url 2016-08-5-last-year-content %}) for an in-depth recompilation, with summaries and extra exercises.
+See the [next post]({% post_url 2016-08-05-last-year-content %}) for an in-depth recompilation, with summaries and extra exercises.
 
 We were planning to do, apart from the classes, some olympiad-like competitions, by teams. Discuss below whether you like the idea. Here is an example of problem:
 
