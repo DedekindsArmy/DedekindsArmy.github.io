@@ -15,5 +15,9 @@ It is known that the complex numbers appeared as an extension of $\mathbb{R}$ to
 
 ## Bibliography
 
+* Verónica Pericacho, [*Cuaterniones y octoniones*](http://hdl.handle.net/2445/53927)
+* Richard Palais, [*The classification of real division algebras*](http://www.academia.edu/9660799/THE_CLASSIFICATION_OF_REAL_DIVISION_ALGEBRAS)
+* Samuel Eilenberg and Ivan Niven, *The "fundamental theorem of algebra" for quaternions*.
+
 ## Promotional poster
  <img src="https://document-export.canva.com/DACOjg1UcZ4/19/preview/0001-153138026.png" alt="Poster" style="width: 750px;"/>
