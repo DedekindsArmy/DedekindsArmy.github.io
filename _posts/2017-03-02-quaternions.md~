@@ -13,8 +13,6 @@ author: Jsevillamol
 **Abstract**:
 It is known that the complex numbers appeared as an extension of $\mathbb{R}$ to find solutions to equations such as $x ^ 2 + 1 = 0$ . The field $\mathbb{C}$ can be extended again to $\mathbb{H}$ by adding another imaginary unit $j$ such that $j^2 = -1$. $\mathbb{H}$ is (as $\mathbb{C}$) a real division algebra algebraically closed. With the product of quaternions we can represent the isometries in the real three-dimensional euclidean vector space (R3) easily. In this colloquium we will present some concepts to understand better these representations and their utilities.
 
-Leave your comments about the talk in [this anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSdkLI0ymGvWzYqHV9X7sk3eoWZGX3fbTGtC4MeAquV6nWZ6OA/viewform?usp=sf_link).
-
 ## Bibliography
 
 * Verónica Pericacho, [*Cuaterniones y octoniones*](http://hdl.handle.net/2445/53927)
