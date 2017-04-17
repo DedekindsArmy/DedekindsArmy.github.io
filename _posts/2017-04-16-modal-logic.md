@@ -25,4 +25,4 @@ We will discuss Solovay's arithmetical adecuacy theorems, modal fixed points and
 * J. Sevilla, [*Fixed point theorem of provability logic*](https://arbital.com/p/fixed_point_theorem_provability_logic/)
 
 ## Promotional poster
- <img src="https://document-export.canva.com/DACB0ejbngk/15/preview/0001-42.png" alt="Poster" style="width: 750px;"/>
+ <img src="https://document-export.canva.com/DACB0ejbngk/18/preview/0001-42.png" alt="Poster" style="width: 750px;"/>
