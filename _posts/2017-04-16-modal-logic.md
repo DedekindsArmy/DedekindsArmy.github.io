@@ -17,12 +17,16 @@ after a review of the concepts of the [first order provability predicate and Lö
 After that we will focus on the Gödel-Löb modal system (GL), also known as the logic of provability.
 We will discuss Solovay's arithmetical adecuacy theorems, modal fixed points and the Kripke models of GL.
 
+Lastly if time permits we will discuss the applications of modal logic in artifical intelligence and decision theory with a toy model, modal combat.
+
 ## Bibliography
 
 * G. Boolos, J. Burgess & R. Jeffrey, *Computability and Logic*
 * G. Boolos, *The Logic of Provability*
 * R. J. Buehlen, [*The Logic of Provability: Notes*](https://math.berkeley.edu/~buehler/The%20Logic%20of%20Provability.pdf)
+* P. LaVictoire, [*An Introduction to Löb's Theorem in MIRI Research*](intelligence.org/files/lob-notes-IAFF.pdf)
 * J. Sevilla, [*Fixed point theorem of provability logic*](https://arbital.com/p/fixed_point_theorem_provability_logic/)
+* J. Sevilla, [*Modal Logic in the Wolfram Language*](http://community.wolfram.com/groups/-/m/t/882144) 
 
 ## Promotional poster
  <img src="https://document-export.canva.com/DACB0ejbngk/18/preview/0001-42.png" alt="Poster" style="width: 750px;"/>
