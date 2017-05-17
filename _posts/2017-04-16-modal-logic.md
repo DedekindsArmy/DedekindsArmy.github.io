@@ -19,8 +19,11 @@ We will discuss Solovay's arithmetical adecuacy theorems, modal fixed points and
 
 Lastly if time permits we will discuss the applications of modal logic in artifical intelligence and decision theory with a toy model, modal combat.
 
-## Slides
+## Video & slides
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7zwNUOPfxA" frameborder="0" allowfullscreen></iframe>
+
 [Link to slides](https://prezi.com/4oqwbe7vexz0/logica-modal/)
+
 
 ## Bibliography
 

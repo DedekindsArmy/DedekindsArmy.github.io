@@ -28,7 +28,7 @@ Interested in collaborating or attending? [Get in touch with us!](mailto:dedekin
 ### Jaime Sevilla
 *Cofounder, site manager, organizer and teacher*
 
-<img src="/images/Jsevillamol.jpg" alt="Jaime Sevilla" style="width: 200px;"/>
+<img src="/images/people/Jsevillamol.jpg" alt="Jaime Sevilla" style="width: 200px;"/>
 
 Jaime Sevilla is a Mathematics and Computer Engineering undergrad student in the Universidad Complutense de Madrid, Spain.
 
@@ -46,7 +46,8 @@ All the beautiful posters you see advertising DA's classes are designed by him.
 [Set theory](https://drive.google.com/file/d/0ByOY0ltwG6s-Y0syd2V1b0RrZGs/view?usp=sharing) -
 [Equinumerability](https://drive.google.com/file/d/0ByOY0ltwG6s-QXEzUkgySXRBMTQ/view?usp=sharing) -
 [Computability](https://drive.google.com/file/d/0ByOY0ltwG6s-bHVyY2tEWW9YWTA/view?usp=sharing) -
-[Löb's and Gödel's Theorems]({% post_url 2016-10-04-godel-lob-viceversa %})
+[Löb's and Gödel's Theorems]({% post_url 2016-10-04-godel-lob-viceversa %}) -
+[Modal logic]({% post_url 2017-04-16-modal-logic %})
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
@@ -97,7 +98,7 @@ In her spare time she plays the piano and sings in a barbershop chorus, The Barb
 
 ### Guillermo Gallego
 
-<img src="/images/GGallego.jpg" alt="Guillermo Gallego" style="width: 200px;"/>
+<img src="/images/people/GGallego.jpg" alt="Guillermo Gallego" style="width: 200px;"/>
 
 Guillermo Gallego Sánchez is an undergraduate student of Double Degree in Mathematics and Physics at Universidad Complutense de Madrid.
 
@@ -129,3 +130,4 @@ He is collaborating now on Mathifold, a project in the University that tries to 
 
 **Classes taught:**
 [Banach-Tarski's Theorem]({% post_url 2016-11-22-banach-tarski %})
+
