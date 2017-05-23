@@ -85,6 +85,17 @@ We ought the existence of this blog to his efforts.
 
 Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
+### Garazi Muguruza
+
+<img src="/images/people/GMuguruza.jpg" alt="Jaime Sevilla" style="width: 200px;"/>
+
+Garazi Muguruza is an undergraduate student of mathematics at the Complutense University of Madrid. She is mainly interested in analysis, whenever it is not related to solving PDEs.
+
+She is the president of Hypatia Reading Club at the physics faculty and member of TEMat and ANEM editorial group, which (plural?) hardly leaves her spare time.
+
+**Classes taught:**
+[Fractals]({% post_url 2017-05-22-fractals %})
+
 ### Patricia Contreras
 
 Patricia Contreras Tejada is a PhD student in the mathQI group at Universidad Complutense de Madrid. She studied Mathematics and Physics MSci at the University of Bristol and Philosophy of Physics MSt at the University of Oxford.
