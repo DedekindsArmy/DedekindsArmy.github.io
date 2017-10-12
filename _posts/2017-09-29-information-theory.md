@@ -22,6 +22,8 @@ Lastly, we will dip our toes in the advanced topic of algorithmic complexity, wh
 
 Keywords: Markov process interpretation of thermodynamic entropy, Kelly gambling, the noisy channel theorem, mutual information, relative entropy, kolmogorov complexity.
 
+## Slides
+[Slides about information theory in Prezi](https://prezi.com/p/z2bu2nonjg3y/)
 
 ## Bibliography
 
