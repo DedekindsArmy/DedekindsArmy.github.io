@@ -88,4 +88,4 @@ defaults:
         values:
             layout: "post"
 
-exclude: [vendor] # For travis ci
+exclude: [vendor, videos] # For travis ci
