@@ -87,7 +87,7 @@ Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
 ### Garazi Muguruza
 
-<img src="/images/people/GMuguruza.jpg" alt="Jaime Sevilla" style="width: 200px;"/>
+<img src="/images/people/GMuguruza.jpg" alt="Garazi Muguruza" style="width: 200px;"/>
 
 Garazi Muguruza is an undergraduate student of mathematics at the Complutense University of Madrid. She is mainly interested in analysis, whenever it is not related to solving PDEs.
 
@@ -106,6 +106,12 @@ In her spare time she plays the piano and sings in a barbershop chorus, The Barb
 
 **Classes taught:**
 [Bell's Theorem]({% post_url 2016-12-07-bells-theorem %})
+
+### Gerardo García
+
+Gerardo García Moreno is an undergraduate student of Physics at Universidad Complutense de Madrid. He is interested in theoretical and mathematical aspects of physics, mainly in foundations of quantum mechanics , quantum information ,quantum technologies and quantum field theory , among other things. 
+
+He likes spending his spare time doing outdoor activities such as trekking or (trail) running. He is also trying to learn how to play guitar.
 
 ### Guillermo Gallego
 
