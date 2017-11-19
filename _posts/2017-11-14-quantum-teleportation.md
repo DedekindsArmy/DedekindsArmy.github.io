@@ -2,7 +2,7 @@
 title: Quantum Teleportation
 author: Jsevillamol
 ---
-**Lecturer**: Jaime Sevilla
+**Lecturer**: Gerardo García
 
 **Date**: 14/11/2017
 
