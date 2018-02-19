@@ -91,7 +91,7 @@ Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
 Garazi Muguruza is an undergraduate student of mathematics at the Complutense University of Madrid. She is mainly interested in analysis, whenever it is not related to solving PDEs.
 
-She is the president of Hypatia Reading Club at the physics faculty and member of TEMat and ANEM editorial group, which (plural?) hardly leaves her spare time.
+She is the president of Hypatia Reading Club at the physics faculty and member of TEMat and ANEM editorial group, which hardly leaves her spare time.
 
 **Classes taught:**
 [Fractals]({% post_url 2017-05-22-fractals %})
