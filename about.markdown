@@ -65,12 +65,8 @@ His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Cha
 **Classes taught:**
 [Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
 
-## Contributors
-
-Dedekind's Army would not be anything without its contributors. The following people have generously volunteered their time and effort to help Dedekind's Army become a successful project. We are proud to have collaborated with such a select group of people, and we hope to continue helping each other in the future.
-
 ### Diego Chicharro
-*Cofounder and teacher*
+*Cofounder, teacher and organizer of the Dedekind Olympiad*
 
 Diego Chicharro is an undergraduate student at the Complutense University of Madrid, studying a joint degree in Mathematics and Physics.
 
@@ -85,6 +81,11 @@ We ought the existence of this blog to his efforts.
 
 Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
+## Contributors
+
+Dedekind's Army would not be anything without its contributors. The following people have generously volunteered their time and effort to help Dedekind's Army become a successful project. We are proud to have collaborated with such a select group of people, and we hope to continue helping each other in the future.
+
+
 ### Garazi Muguruza
 
 <img src="/images/people/GMuguruza.jpg" alt="Garazi Muguruza" style="width: 200px;"/>
@@ -95,6 +96,15 @@ She is the president of Hypatia Reading Club at the physics faculty and member o
 
 **Classes taught:**
 [Fractals]({% post_url 2017-05-22-fractals %})
+
+### Mauro Sanchiz
+
+<img src="/images/people/MSanchiz.JPG" alt="Mauro Sanchiz" style="width: 200px;"/>
+
+Mauro is a student (of the Master in advanced Mathematics in the UCM), who feels interest for (mostly) everything and passion for (hardly) anything. As a graduated in Mathematics, he can speak with everyone about everything without saying anything relevant or not strictly logical. Because of his uncertain future and interest in mathematical research, he could run away from his academic life anytime, so you should talk to him about mathematics while you can and have common interests.
+
+**Classes taught:**
+[Non compact surfaces]({% post_url 2018-02-26-non-compact-surfaces %})
 
 ### Patricia Contreras
 
