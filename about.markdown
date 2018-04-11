@@ -117,6 +117,19 @@ In her spare time she plays the piano and sings in a barbershop chorus, The Barb
 **Classes taught:**
 [Bell's Theorem]({% post_url 2016-12-07-bells-theorem %})
 
+### Fernando Díaz
+
+<img src="/images/people/FDiaz.JPG" alt="Fernando Díaz" style="width: 200px;"/>
+
+Fernando  Díaz  is currently an  undergraduate  physics  student  in  the  Universidad Autónoma de Madrid.
+
+He  is  interested  in the  principles of both  classical  and  quantum  mechanics  and their relation   to   linear   algebra and functional   analysis. He   also   likes   reading   about nonlinear dynamics and chaos, statistical mechanics and, essentially, anything related to physics.
+
+As a hobby, he enjoys listening to classical music, reading or going to the theatre.
+
+**Classes taught:**
+[Least action principle]({% post_url 2018-04-09-least-action-principle %})
+
 ### Gerardo García
 
 Gerardo García Moreno is an undergraduate student of Physics at Universidad Complutense de Madrid. He is interested in theoretical and mathematical aspects of physics, mainly in foundations of quantum mechanics , quantum information ,quantum technologies and quantum field theory , among other things. 

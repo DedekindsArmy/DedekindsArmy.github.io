@@ -27,7 +27,7 @@ Keywords: Markov process interpretation of thermodynamic entropy, Kelly gambling
 
 ## Bibliography
 
-* T. Cover, J. Thomas, *Elements of Information Theory*
+* T. Cover, J. Thomas, [*Elements of Information Theory*](http://www.cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf)
 * D. Mackay, [*Information Theory, Inference, and Learning Algorithms*](http://www.inference.org.uk/itprnn/book.pdf)
 
 
