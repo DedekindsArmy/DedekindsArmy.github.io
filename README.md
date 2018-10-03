@@ -21,6 +21,7 @@ Additional considerations:
 
 1. Create a file with the name format `yyyy-mm-dd-name-of-post.md` in the folder `_posts`. Copy the following structure in the file and fill the details:
 
+'''
 
 	---
 	title: Title of the talk
@@ -46,9 +47,11 @@ Additional considerations:
 	## Promotional poster
 	 <img src="/images/posters/poster_file.png" alt="Poster" style="width: 750px;"/>
 
+'''
 
 2. Modify `about.markdown` to include the bio of the lecturer. Create an entry under contributors with the following structure and fill the details:
 
+'''
 
 	### Name and surname of lecturer
 
@@ -58,6 +61,8 @@ Additional considerations:
 
 	**Classes taught:**
 	[Class]({% post_url yyyy-mm-dd-name-of-post %})
+
+'''
 
 
 3. Open a terminal on the root folder of `DedeindsArmy.github.io`. Run the command `jekyll build` to generate the HTML files associated to the post.
