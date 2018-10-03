@@ -51,19 +51,21 @@ All the beautiful posters you see advertising DA's classes are designed by him.
 
 Contact **[by mail](mailto:jsevillamol@outlook.com)**
 
-### Gonzalo Gómez
-*Core member, teacher and organizer of the Dedekind Olympiad*
+### Diego de la Fuente
+*Organizer and teacher*
 
-Gonzalo Gómez studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
+<img src="/images/people/DFuente.jpg" alt="Diego de la Fuente" style="width: 200px;"/>
 
-The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
+Diego de la Fuente is currently an undergraduate student at Universidad Complutense de Madrid. He is in his third year and he is interested in all aspects of mathematics, in special in number theory and algebraic structures. Someday, he would like to be a researcher in any area of mathematics so he can spend his time studying.
 
-Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
-
-His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
+His hobbies are reading and practising sports, specially table tennis, in which he has been a federated player for several years.
 
 **Classes taught:**
-[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
+[Arithmetical Functions]({% post_url 2018-09-24-arithmetical-functions %})
+
+## Contributors
+
+Dedekind's Army would not be anything without its contributors. The following people have generously volunteered their time and effort to help Dedekind's Army become a successful project. We are proud to have collaborated with such a select group of people, and we hope to continue helping each other in the future.
 
 ### Diego Chicharro
 *Cofounder, teacher and organizer of the Dedekind Olympiad*
@@ -81,9 +83,19 @@ We ought the existence of this blog to his efforts.
 
 Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
-## Contributors
+### Gonzalo Gómez
+*Teacher and organizer of the Dedekind Olympiad*
 
-Dedekind's Army would not be anything without its contributors. The following people have generously volunteered their time and effort to help Dedekind's Army become a successful project. We are proud to have collaborated with such a select group of people, and we hope to continue helping each other in the future.
+Gonzalo Gómez studies Mathematical Engineering in the Universidad Complutense de Madrid, Spain.
+
+The first time he read a serious Mathematics Book from the University Library, he only got to the third page before realizing, in horror, that there were no pictures or diagrams. In fact, there were only definitions, theorems and proofs. Since that very day, Gonzalo fights a war against formalism that will never be won.
+
+Meanwhile, he naively tries to find applications for mathematics in something that resembles reality, as well as solving problems that have a visual, intuitive solution.
+
+His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
+
+**Classes taught:**
+[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
 
 
 ### Garazi Muguruza
