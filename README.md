@@ -13,6 +13,7 @@ Additional considerations:
 * We will announce the talk through our webpage, twitter and WhatsApp group
 * If they want to give a talk but are unsure about the topic, ask them about their interests and favorite classes
 * Check with them if they will need slides
+* Ask them if they want their talk to be recorded
 * After the talk, they are welcome to give us supplementary materials
 
 ## How to announce a new talk in the webpage
