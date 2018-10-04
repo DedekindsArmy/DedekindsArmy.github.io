@@ -14,7 +14,7 @@ Additional considerations:
 * If they want to give a talk but are unsure about the topic, ask them about their interests and favorite classes
 * Check with them if they will need slides
 * Ask them if they want their talk to be recorded
-* After the talk, they are welcome to give us supplementary materials
+* After the talk, they are welcome to give us supplementary materials. Supplementary materials are hosted in [our GDrive](https://drive.google.com/drive/u/0/folders/0ByOY0ltwG6s-b3hmLVd2TXgwdkk) and linked in the webpage.
 
 ## How to announce a new talk in the webpage
 
