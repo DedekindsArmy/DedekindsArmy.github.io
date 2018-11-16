@@ -27,5 +27,5 @@ statistics, algebra, triangles and multicopters.
 * Pierre R. Bélanger, Eric L. Adler and Nicholas C. Rumin: Introduction to circuits with electronics (chapter 2)
 
 ## Promotional poster
- <img src="/images/posters/degrees_of_freedom.png" alt="Poster" style="width: 750px;"/>
+ <img src="/images/posters/degrees-of-freedom.png" alt="Poster" style="width: 750px;"/>
 
