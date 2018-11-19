@@ -95,7 +95,7 @@ Meanwhile, he naively tries to find applications for mathematics in something th
 His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Chaos Theory, Complexity and Abstract Algebra, in that order.
 
 **Classes taught:**
-[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games
+[Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games -
 [Degrees of freedom]({% post_url 2018-11-17-degrees-of-freedom %})
 
 
