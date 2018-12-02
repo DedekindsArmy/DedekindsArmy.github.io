@@ -9,7 +9,7 @@ You will have to prepare a 40 minute session on any topic, as long as it is rela
 
 We will provide you with outreach and a wonderful poster design to promote your talk of the style of the one below, together with some guidance from our seasoned organizers.
 
-We believe that this is an excellent opportunity for you to practice your communication skills, which are often neglected during the career and crucial if you are planning to work in education, research or industry alike. To sweeten the deal for you, our partners, the [Instituto de Matemáticas Interdisciplinar (IMI)](http://www.mat.ucm.es/imi/), will grant certifications to the students who decide to give a talk. You will also be immortalized forever in our [about section]({{ site.baseurl }}{% link about.md %}).
+We believe that this is an excellent opportunity for you to practice your communication skills, which are often neglected during the career and crucial if you are planning to work in education, research or industry alike. To sweeten the deal for you, our partners, the [Instituto de Matemáticas Interdisciplinar (IMI)](http://www.mat.ucm.es/imi/), will grant certifications to the students who decide to give a talk. You will also be immortalized forever in our [about section](https://dedekindsarmy.github.io/about).
 
 ¿Convinced? Send us an email to [dedekindsarmy@gmail.com](mailto:dedekindsarmy@gmail.com) with an idea for a talk (including a short abstract, bibliography and a short biography paragraph of yours in English for our webpage). ¿No ideas yet but still want to participate? Just send us an email anyway and we will help you choose a topic.
 
