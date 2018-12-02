@@ -2,7 +2,7 @@
 title: Looking for speakers
 author: didelafu
 ---
-**Lecturer**: Diego de la Fuente
+**Lecturer**:
 
 **Date**: 02/12/2018
 
