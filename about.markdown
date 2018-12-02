@@ -96,7 +96,7 @@ His favourite topics are Group Theory, Combinatorics, Geometry, Game Theory, Cha
 
 **Classes taught:**
 [Axiomatic Origami]({% post_url 2016-10-29-straight-edge-compass-origami %}) - Groups in Games -
-[Degrees of freedom]({% post_url 2018-11-17-degrees-of-freedom %})
+[Degrees of freedom]({% post_url 2018-11-16-degrees-of-freedom %})
 
 
 ### Garazi Muguruza
