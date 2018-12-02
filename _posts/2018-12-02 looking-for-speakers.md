@@ -4,7 +4,7 @@ author: didelafu
 ---
 **Date**: 02/12/2018
 
-**Abstract**: We are looking for speakers to carry out new lectures in Dedekind's Army. If you are a student, you are invited to promote a lecture about your favourite maths topic.
+We are looking for speakers to carry out new lectures in Dedekind's Army. If you are a student, you are invited to promote a lecture about your favourite maths topic.
 
 ## Promotional poster
  
