@@ -2,7 +2,6 @@
 title: Recruitment
 author: didelafu
 ---
-
 We are looking for speakers to carry out new lectures in Dedekind's Army. If you are a student of any level, from undergraduate to PhD, you are invited to prepare a lecture about your favourite Math topic.
 
 You will have to prepare a 40 minute session on any topic, as long as it is related to Math, followed by a round of questions. You can use a projector and slides, or just good old fashioned chalk and blackboard. The talks are usually done in Spanish, but we are open to people who want to do them in English.
