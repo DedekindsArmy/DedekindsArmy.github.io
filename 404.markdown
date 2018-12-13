@@ -2,4 +2,7 @@
 layout: notfound
 title: 404
 ---
+This page doesn't exist
+
 Click on the little circle to get back
+

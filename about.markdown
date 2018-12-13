@@ -70,11 +70,7 @@ Dedekind's Army would not be anything without its contributors. The following pe
 ### Diego Chicharro
 *Cofounder, teacher and organizer of the Dedekind Olympiad*
 
-Diego Chicharro is an undergraduate student at the Complutense University of Madrid, studying a joint degree in Mathematics and Physics.
-
-He aims to become a mathematical researcher in a field that is still to be determined. Within his main interests lie number theory, complex analysis, field theory and topology.
-
-He also likes spending time researching elementary number theory, summation methods, and asymptotics, and thoroughly enjoys solving challenging problems, in particular olympiad-like problems. That is the reason why in his classes a problem-solving spirit is always noticeable.
+Diego Chicharro is an undergraduate student at Universidad Complutense de Madrid, studying the joint degree in Mathematics and Physics. He aims to become a researcher in number theory, but he is also interested in other branches such as complex analysis and topology. *He could never resist a series*.
 
 We ought the existence of this blog to his efforts.
 
@@ -132,7 +128,7 @@ In her spare time she plays the piano and sings in a barbershop chorus, The Barb
 
 ### Fernando Díaz
 
-<img src="/images/people/FDiaz.JPG" alt="Fernando Díaz" style="width: 200px;"/>
+<img src="/images/people/FDiaz.jpg" alt="Fernando Díaz" style="width: 200px;"/>
 
 Fernando  Díaz  is currently an  undergraduate  physics  student  in  the  Universidad Autónoma de Madrid.
 

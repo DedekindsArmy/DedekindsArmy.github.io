@@ -46,7 +46,7 @@ favicon: true
 favicon_location: "images/icons/favicon.ico"
 
 profile_picture: images/DALogo.png
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num"
 
 # Social Stuff | open graph and twitter cards

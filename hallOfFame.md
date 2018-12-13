@@ -40,5 +40,7 @@ He has competed in some Mathematic contests since he was a child, though he pref
 His favourite topics are Analysis, Algebra and Game Theory. He is also really interested in the areas in the intersection of Mathematics and Physics.
 
 ### Honorific mentions
-* Ismael Morales
-* Raúl González
+
+Ismael Morales
+
+Raúl González
