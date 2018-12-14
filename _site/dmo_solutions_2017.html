@@ -149,22 +149,22 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
   <script type="math/tex; mode=display">\lim_{n\to\infty}\frac1n\sum_{i,j=1}^n\frac1{i+j}</script>
 </blockquote>
 
-<p>Let</p>
+<p>It we let</p>
 
 <script type="math/tex; mode=display">x_n:=\sum_{i=1}^n\sum_{j=1}^n\frac1{i+j}</script>
 
-<p>then it suffices to compute</p>
+<p>then it suffices to compute the limit</p>
 
 <script type="math/tex; mode=display">\lim_{n\to\infty}(x_{n+1}-x_n)
 =2\lim_{n\to\infty}\sum_{i=1}^n\frac1{i+n},</script>
 
-<p>but</p>
+<p>but the computation is easy noting that the right hand side is a Riemann sum,</p>
 
 <script type="math/tex; mode=display">\sum_{i=1}^n\frac1{i+n}
 =\frac1n\sum_{i=1}^n\frac1{i/n+1}\to\int_0^1\frac1{1+x}\,dx
-=\log 2,</script>
+=\log 2.</script>
 
-<p>so the limit is $2\log2$.</p>
+<p>Hence, the limit is $2\log2$.</p>
 
 <blockquote>
   <p>Let $P_1,\dots,P_{2017}$ be the vertices of a regular $2017$-gon inscribed on the unit circle. Let $Q_j$ the distance between $P_1$ and $P_j$ ($j=2,\dots,2017$.) Compute
@@ -189,18 +189,22 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 
 <p>The integral is $\pi^2/4$. Indeed, the change $x\mapsto 1/x$ and the identity $\arctan x+\arctan x^{-1}=\pi/2$ yield plainly the result.</p>
 
+<p><strong>Additional exercise:</strong> what happens if you replace $\arctan(\sqrt[4]{x})$ with $\arctan(x^a)$ for some real $a$?</p>
+
 <blockquote>
   <p>(Finite sandpile abelian model) Let $D=\{x\in M_{2\times 3}:x_{ij}=0,1,2,3\}$. We define an operation $\oplus : D \times D \rightarrow D$ in the following way: To calculate $A\oplus B$ we first do the usual sum $C=A+B$, and then, if there is an entry $c_{ij}$ greater or equal to $4$ in the sum matrix $C$, we substract 4 from that entry and add 1 to the four nearby ones $c_{i-1,j}$, $c_{i+1,j}$, $c_{i,j+1}$ and $c_{i,j-1}$ if they exist at all. We repeat this last step until $c_{ij}\leq 3$ for all $i, j$.</p>
-</blockquote>
 
-<p><script type="math/tex">% <![CDATA[
+  <script type="math/tex; mode=display">% <![CDATA[
 \text{Let } T = \left[ \begin{array}{ccc}
 3 & 3 & 3 \\
 3 & 3 & 3 \end{array} \right] %]]></script>
-a) (5) Compute $2017\times T = \underbrace{T \oplus T \oplus \dots \oplus T}_{2017\text{ times}}$\ <br />
-b) (20) Prove that $D \oplus T$ is a group under operation $\oplus$, which may be assumed to be asociative.\ <br />
-Solutions:º\
-a) As we do not know much about operating matrices with the operation $\oplus$, we should try to compute it with brute strength, decomposing 2017 into powers of 2 and computing $T, 2\times T, 4\times T \dots$ and so on:
+
+  <p>a) Compute $2017\times T = \underbrace{T \oplus T \oplus \dots \oplus T}_{2017\text{ times}}$</p>
+
+  <p>b)Prove that $D \oplus T$ is a group under operation $\oplus$, which may be assumed to be asociative.</p>
+</blockquote>
+
+<p>a) As we do not know much about operating matrices with the operation $\oplus$, we should try to compute it with brute strength, decomposing 2017 into powers of 2 and computing $T, 2\times T, 4\times T \dots$ and so on:
 <script type="math/tex">% <![CDATA[
 2\times T = \left[ \begin{array}{ccc}
 3 & 3 & 3 \\
@@ -252,6 +256,8 @@ Finally the operation is closed in $D,$ as $(T \oplus A) \oplus (T \oplus B) = T
 This means one of two things: either $x \equiv 1$, $x^2 + x + 1 \equiv 3 \equiv 0$ and $p=3$,
 or the order of $x$ in the group of product modulo $p$ is a multiple of 3, and so the order of the group is also a multiple of 3. As the order of the group is $p-1$, we have that $3|p-1$, and if $p= 2$, then $3\nmid p-1$. Therefore $p$ is odd, $p-1$ is even, and if it’s even and a multiple of 3 it is a mutiple of 6.</p>
 
+<p><strong>Remark</strong>: $x^2+x+1$ is the 3rd cyclotomic polynomial, whose roots are the primitive third roots of unity.</p>
+
 <blockquote>
   <p>b) Prove the same thing than in a) for $x^2 + x + 7$.</p>
 </blockquote>
@@ -265,11 +271,11 @@ or the order of $x$ in the group of product modulo $p$ is a multiple of 3, and s
 <p>So if $p$ divides $x^2 + x + 7$ then $-27$ is a quadratic residue modulo $p$, and
 <script type="math/tex">1 = (-27/p) = (-1/p)\cdot (3/p)^3 = (-1/p)\cdot (3/p) = (-1/p)\cdot (p/3)\cdot (-1/p) = (p/3).</script></p>
 
-<p>The next-to-last step deserves some explanation: We know (it is a theorem by gauss) that if $p$ and $q$ are odd primes, $(p/q) = -(q/p)$ if $q\equiv p \equiv 3 \text{ (mod 4)}$ and otherwise $(q/p) = (p/q)$. Also, $(-1/p) = 1$ if $p\equiv 1$ (mod 4) and $(-1/p) = -1$ if $p\equiv 3$ (mod 4). Therefore we can pass $(3/p)$ as $(p/3)$ with a factor $(-1/p)$.</p>
+<p>The next-to-last step deserves some explanation: We know by quadratic reciprocity that if $p$ and $q$ are odd primes, $(p/q) = -(q/p)$ if $q\equiv p \equiv 3 \text{ (mod 4)}$ and $(q/p) = (p/q)$ otherwise. Also, $(-1/p) = (-1)^{(p-1)/2}$. Therefore we can pass $(3/p)$ as $(p/3)$ with a factor $(-1/p)$.</p>
 
 <p>So finally we know that $p$ is a quadratic residue modulo 3, and the only quadratic residue mod 3 other than 0 is 1, so $p\equiv 1$ (mod 3), $3\mid p-1$ and recalling that $p$ is odd we get that $6\mid p-1$.</p>
 
-<p><strong>Additional exercise</strong>: prove the converse!</p>
+<p><strong>Additional exercise:</strong> prove the converse!</p>
 
 </div>
 <div class="container">
@@ -418,9 +424,10 @@ or the order of $x$ in the group of product modulo $p$ is a multiple of 3, and s
                 Youtube channel
             </a>
 
-            <a href="/calendar" class="button">
+            <!--<a href="/calendar" class="button">
                 Events
             </a>
+			-->
 
   	        <a href="/about" class="button">
   	            About

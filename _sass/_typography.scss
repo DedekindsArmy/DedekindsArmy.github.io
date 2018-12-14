@@ -92,9 +92,10 @@
         font-size: $base-font-size;
         padding: 0 0 0 $base-spacing;
         margin: $base-spacing 0;
-        color: $medium-gray-color;
+        color: black;
         line-height: 1.8;
-        border-left: $small-spacing solid $light-gray-color;
+        border-left: $small-spacing solid rgb(13, 52, 59);
+		background-color: $light-gray-color;
     }
     img {
         width: auto;
