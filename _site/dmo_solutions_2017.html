@@ -97,7 +97,7 @@
 
   <p>Another indication: one well known property of proofs is that when you can prove a proposition, you can also prove that there exists a proof.</p>
 
-  <p>a. “Prove” that $1=2$ (indication: use the diagonalization lemma)
+  <p>a) “Prove” that $1=2$ (indication: use the diagonalization lemma)
 Let’s consider S such that it can be proven equivalent to “if there is a proof of S, then $1=2$”.</p>
 </blockquote>
 
@@ -110,7 +110,7 @@ Let’s consider S such that it can be proven equivalent to “if there is a pro
 <p>And if there a proof of $1=2$, it better be true, right?</p>
 
 <blockquote>
-  <p>b. (<em>Löb’s theorem</em>) Prove that if from the existence of the proof of a proposition we could deduce its truth, then the sentence must be neccesarily true.</p>
+  <p>b) (<em>Löb’s theorem</em>) Prove that if from the existence of the proof of a proposition we could deduce its truth, then the sentence must be neccesarily true.</p>
 </blockquote>
 
 <p>Notice that we could substitute in the solution to a the proposition $1=2$ for any other proposition. But the last step is flawed, since we cannot deduce from the existence of a proof of $1=2$ that $1=2$ is true. If that was possible we would be able to prove any nonsense!</p>
@@ -123,9 +123,12 @@ We say that two sets $A$ and $B$ are equidecomposables and we will write such th
   <ul>
     <li>$g_i A_i =B_i\, \forall i$</li>
     <li>$A_1 \uplus … \uplus A_n = A$</li>
-    <li>$B_1 \uplus … \uplus B_n = B$
-Show that $\mathbb{S}^1\sim \mathbb{S}^1\setminus{p}$   ($p$ is any point from $\mathbb{S}^1 = \lbrace(x, y) : x^2 + y^2 = 1\rbrace$)</li>
+    <li>$B_1 \uplus … \uplus B_n = B$</li>
   </ul>
+
+  <p>Show that $\mathbb{S}^1\sim \mathbb{S}^1\setminus{p}$, where $p$ is any point on the circle</p>
+
+  <script type="math/tex; mode=display">\mathbb{S}^1 = \lbrace(x, y) : x^2 + y^2 = 1\rbrace.</script>
 </blockquote>
 
 <p>Pick a rational rotation $\theta$ and consider the set formed by the succesive application of the rotation to the missing point in the circumference. Since the rotation is rational, you never fall twice in the same point, and therefore if you apply the inverse of the rotation to the set while leaving the rest of the circumference unchanged you end up with the whole circumference.</p>
@@ -200,11 +203,9 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 3 & 3 & 3 \end{array} \right] %]]></script>
 
   <p>a) Compute $2017\times T = \underbrace{T \oplus T \oplus \dots \oplus T}_{2017\text{ times}}$</p>
-
-  <p>b)Prove that $D \oplus T$ is a group under operation $\oplus$, which may be assumed to be asociative.</p>
 </blockquote>
 
-<p>a) As we do not know much about operating matrices with the operation $\oplus$, we should try to compute it with brute strength, decomposing 2017 into powers of 2 and computing $T, 2\times T, 4\times T \dots$ and so on:
+<p>As we do not know much about operating matrices with the operation $\oplus$, we should try to compute it with brute strength, decomposing 2017 into powers of 2 and computing $T, 2\times T, 4\times T \dots$ and so on:
 <script type="math/tex">% <![CDATA[
 2\times T = \left[ \begin{array}{ccc}
 3 & 3 & 3 \\
@@ -239,7 +240,11 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 <p>Thus we see that $8\times T = T$ and so $T \oplus 7\times T = T$. Dividing by 7 we discover that $2017 = 7\cdot 288 + 1$ and therefore:
 <script type="math/tex">2017\times T = T \oplus \underbrace{7\times T \oplus 7\times T \oplus \dots}_{288\text{ times}} = T</script></p>
 
-<p>b) It is obvious that $\oplus$ is conmutative, because it is based in the usual matrix sum. We first must find the identity of such a group, and we know from a) that it is $7\times T$, but we can find it without that information. It suffices to show that $Id \oplus T$, because then for every $T \oplus G \in D$ we have that $(T \oplus G) \oplus Id =  Id \oplus (T \oplus G) = (Id \oplus T) \oplus G = T \oplus G.$</p>
+<blockquote>
+  <p>b) Prove that $D \oplus T$ is a group under operation $\oplus$, which may be assumed to be asociative.</p>
+</blockquote>
+
+<p>It is obvious that $\oplus$ is conmutative, because it is based in the usual matrix sum. We first must find the identity of such a group, and we know from a) that it is $7\times T$, but we can find it without that information. It suffices to show that $Id \oplus T$, because then for every $T \oplus G \in D$ we have that $(T \oplus G) \oplus Id =  Id \oplus (T \oplus G) = (Id \oplus T) \oplus G = T \oplus G.$</p>
 
 <p>Let $Id = T\oplus X$. Then $T \oplus T \oplus X = T$, and $X = T - (T \oplus T)$ and we can easily check that $T\oplus T \oplus X = (T\oplus T) \oplus (T - (T\oplus T)) = T.$</p>
 

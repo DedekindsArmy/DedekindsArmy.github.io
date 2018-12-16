@@ -75,7 +75,7 @@ Diego Chicharro is an undergraduate student at Universidad Complutense de Madrid
 We ought the existence of this blog to his efforts.
 
 **Classes taught:**
-[Elementary Number theory](https://drive.google.com/file/d/0ByOY0ltwG6s-RFRpcE1fQnM2VEk/view?usp=sharing)
+Elementary Number Theory
 
 Contact **[by mail](mailto:iqcd13g0@gmail.com)**
 
