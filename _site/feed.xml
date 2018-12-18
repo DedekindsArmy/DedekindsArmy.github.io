@@ -206,12 +206,7 @@
       <item>
         <title>Solutions of Dedekind's Mathematical Olympiad 2017</title>
         
-          <description>&lt;blockquote&gt;
-  &lt;p&gt;Compute the following limit, where $\newcommand{\floor}[1]{\lfloor#1\rfloor}\floor x$ denotes the greatest integer less than or equal to $x$&lt;/p&gt;
-
-  &lt;script type=&quot;math/tex; mode=display&quot;&gt;\lim_{n\to\infty}\frac1{n^2}(\floor{2\pi}+\floor{4\pi}+\floor{6\pi}+
-	\dots+\floor{2n\pi})\&lt;/script&gt;
-&lt;/blockquote&gt;
+          <description>&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/18GLok63qIlE7-5QjBvJ7OojaatIN8iqB/view?usp=sharing&quot;&gt;Questions&lt;/a&gt;&lt;/p&gt;
 
 </description>
         

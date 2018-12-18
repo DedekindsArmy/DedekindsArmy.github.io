@@ -69,8 +69,10 @@
         <time>May 04, 2017 </time>
     </div>
     <h1 class="post-title">Solutions of Dedekind's Mathematical Olympiad 2017</h1>
-    <blockquote>
-  <p>Compute the following limit, where $\newcommand{\floor}[1]{\lfloor#1\rfloor}\floor x$ denotes the greatest integer less than or equal to $x$</p>
+    <p><a href="https://drive.google.com/file/d/18GLok63qIlE7-5QjBvJ7OojaatIN8iqB/view?usp=sharing">Questions</a></p>
+
+<blockquote>
+  <p><strong>1.</strong> Compute the following limit, where $\newcommand{\floor}[1]{\lfloor#1\rfloor}\floor x$ denotes the greatest integer less than or equal to $x$</p>
 
   <script type="math/tex; mode=display">\lim_{n\to\infty}\frac1{n^2}(\floor{2\pi}+\floor{4\pi}+\floor{6\pi}+
 	\dots+\floor{2n\pi})\</script>
@@ -78,12 +80,18 @@
 
 <p>We can sandwich the succession between two limits:</p>
 
-<script type="math/tex; mode=display">\pi = \lim_{n\to\infty}\frac1{n^2}(2\pi-1+4\pi-1+6\pi-1+
-	\dots+2n\pi -1)\le L \le \lim_{n\to\infty}\frac1{n^2}(2\pi+1+4\pi-1+6\pi+1+
-	\dots+2n\pi +1) =\pi</script>
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{equation}
+\begin{split}
+\pi &= \lim_{n\to\infty}\frac1{n^2}(2\pi-1+4\pi-1+6\pi-1+
+	\dots+2n\pi -1)\le L\\ 
+	L& \le \lim_{n\to\infty}\frac1{n^2}(2\pi+1+4\pi-1+6\pi+1+
+	\dots+2n\pi +1) =\pi
+\end{split}
+\end{equation} %]]></script>
 
 <blockquote>
-  <p>Let $(x_n) _ {n=1} ^ \infty$ be a succesion of real numbers. Study the convergence of the succession $(\sin^n x_n)_{n=1}^\infty$</p>
+  <p><strong>2.</strong> Let $(x_n) _ {n=1} ^ \infty$ be a succesion of real numbers. Study the convergence of the succession $(\sin^n x_n)_{n=1}^\infty$</p>
 </blockquote>
 
 <p>Clearly every term is within the interval $[-1, 1]$. We note that $\sin$ is monotone map in this interval, and therefore the succession is sandwiched between the successions $(\sin^{n-1} -1) _ {n=1} ^ \infty$ and $(\sin^{n-1}1) _ {n=1}^\infty$.</p>
@@ -93,7 +101,7 @@
 <p>Thus we conclude that the series converges for every starting succession to zero.</p>
 
 <blockquote>
-  <p>The <em>diagonalization lemma</em> implies that for every sentence A, there is a sentence S such that it can be proven that S is equivalent to “If there exists a proof of S, then A”.</p>
+  <p><strong>3.</strong> The <em>diagonalization lemma</em> implies that for every sentence A, there is a sentence S such that it can be proven that S is equivalent to “If there exists a proof of S, then A”.</p>
 
   <p>Another indication: one well known property of proofs is that when you can prove a proposition, you can also prove that there exists a proof.</p>
 
@@ -118,7 +126,7 @@ Let’s consider S such that it can be proven equivalent to “if there is a pro
 <p>Therefore a neccessary condition to be able to prove that we can deduce from the existence of a proof of a proposition the truth value of the proposition it must happen all along that the proposition was true, which is what Löb’s states.</p>
 
 <blockquote>
-  <p>(<em>Banach-Tarski paradox in the plane</em>)
+  <p><strong>4.</strong> (<em>Banach-Tarski paradox in the plane</em>)
 We say that two sets $A$ and $B$ are equidecomposables and we will write such thing as $A\sim B$ if there exists $A_1 , …,A_n$ and $B_1,…,B_n$ pairwise disjoint and $g_1,…,g_n$ rotations or translations such that:</p>
   <ul>
     <li>$g_i A_i =B_i\, \forall i$</li>
@@ -136,7 +144,7 @@ We say that two sets $A$ and $B$ are equidecomposables and we will write such th
 <p>Thus both figures are equidescomposable.</p>
 
 <blockquote>
-  <p>(<em>The white / yolk theorem</em>)
+  <p><strong>5.</strong> (<em>The white / yolk theorem</em>)
 Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. Prove that there can be found a straight line that divides each of the regions delimited by both curves in half.</p>
 </blockquote>
 
@@ -147,7 +155,7 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 <p>If we consider the map from directions and orientations to the unique lines that split the outer curve along that direction, and from there to the difference of areas in the left and right of the line, but of the inner curve, then we have another continuous map. Taking any direction, it so happens that its orientations are mapped to different signs, and therefore again due to the middle point therem, there is a direction in between that splits both areas in half.</p>
 
 <blockquote>
-  <p>Compute the limit</p>
+  <p><strong>6.</strong> Compute the limit</p>
 
   <script type="math/tex; mode=display">\lim_{n\to\infty}\frac1n\sum_{i,j=1}^n\frac1{i+j}</script>
 </blockquote>
@@ -170,7 +178,7 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 <p>Hence, the limit is $2\log2$.</p>
 
 <blockquote>
-  <p>Let $P_1,\dots,P_{2017}$ be the vertices of a regular $2017$-gon inscribed on the unit circle. Let $Q_j$ the distance between $P_1$ and $P_j$ ($j=2,\dots,2017$.) Compute
+  <p><strong>7.</strong> Let $P_1,\dots,P_{2017}$ be the vertices of a regular $2017$-gon inscribed on the unit circle. Let $Q_j$ the distance between $P_1$ and $P_j$ ($j=2,\dots,2017$.) Compute
 <script type="math/tex">\prod_{j=2}^{2017}Q_j.</script></p>
 </blockquote>
 
@@ -185,7 +193,7 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 \end{align*} %]]></script>
 
 <blockquote>
-  <p>Compute</p>
+  <p><strong>8.</strong> Compute</p>
 
   <script type="math/tex; mode=display">\int_0^\infty\frac{\arctan(\sqrt[4]{x})}{\sqrt x(1+x)}\,dx.</script>
 </blockquote>
@@ -195,7 +203,7 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 <p><strong>Additional exercise:</strong> what happens if you replace $\arctan(\sqrt[4]{x})$ with $\arctan(x^a)$ for some real $a$?</p>
 
 <blockquote>
-  <p>(Finite sandpile abelian model) Let $D=\{x\in M_{2\times 3}:x_{ij}=0,1,2,3\}$. We define an operation $\oplus : D \times D \rightarrow D$ in the following way: To calculate $A\oplus B$ we first do the usual sum $C=A+B$, and then, if there is an entry $c_{ij}$ greater or equal to $4$ in the sum matrix $C$, we substract 4 from that entry and add 1 to the four nearby ones $c_{i-1,j}$, $c_{i+1,j}$, $c_{i,j+1}$ and $c_{i,j-1}$ if they exist at all. We repeat this last step until $c_{ij}\leq 3$ for all $i, j$.</p>
+  <p><strong>9.</strong> (Finite sandpile abelian model) Let $D=\{x\in M_{2\times 3}:x_{ij}=0,1,2,3\}$. We define an operation $\oplus : D \times D \rightarrow D$ in the following way: To calculate $A\oplus B$ we first do the usual sum $C=A+B$, and then, if there is an entry $c_{ij}$ greater or equal to $4$ in the sum matrix $C$, we substract 4 from that entry and add 1 to the four nearby ones $c_{i-1,j}$, $c_{i+1,j}$, $c_{i,j+1}$ and $c_{i,j-1}$ if they exist at all. We repeat this last step until $c_{ij}\leq 3$ for all $i, j$.</p>
 
   <script type="math/tex; mode=display">% <![CDATA[
 \text{Let } T = \left[ \begin{array}{ccc}
@@ -252,7 +260,7 @@ Let $C_1, C_2$ be two simple, closed curves in the plane, one inside the other. 
 Finally the operation is closed in $D,$ as $(T \oplus A) \oplus (T \oplus B) = T \oplus (T \oplus A \oplus B)$.</p>
 
 <blockquote>
-  <p>We know that the product modulo a prime has the structure of a cyclic group.</p>
+  <p><strong>11.</strong> We know that the product modulo a prime has the structure of a cyclic group.</p>
 
   <p>a) Prove that if a prime $p$ divides $x^2 + x + 1$ for some integer $x$, then either $p = 3$ or $p-1$ is a multiple of 6.</p>
 </blockquote>
@@ -274,7 +282,7 @@ or the order of $x$ in the group of product modulo $p$ is a multiple of 3, and s
 <p>We notice that, as $x^2 + x + 7$ is always odd, then $p\mid x^2 + x + 7 \Longleftrightarrow p\mid 4x^2 + 4x + 28 = (2x + 1)^2 + 27$</p>
 
 <p>So if $p$ divides $x^2 + x + 7$ then $-27$ is a quadratic residue modulo $p$, and
-<script type="math/tex">1 = (-27/p) = (-1/p)\cdot (3/p)^3 = (-1/p)\cdot (3/p) = (-1/p)\cdot (p/3)\cdot (-1/p) = (p/3).</script></p>
+\[1 = (-27/p) = (-1/p)\cdot (3/p)^3=(-1/p)\cdot (p/3)\cdot (-1/p) = (p/3).\]</p>
 
 <p>The next-to-last step deserves some explanation: We know by quadratic reciprocity that if $p$ and $q$ are odd primes, $(p/q) = -(q/p)$ if $q\equiv p \equiv 3 \text{ (mod 4)}$ and $(q/p) = (p/q)$ otherwise. Also, $(-1/p) = (-1)^{(p-1)/2}$. Therefore we can pass $(3/p)$ as $(p/3)$ with a factor $(-1/p)$.</p>
 
