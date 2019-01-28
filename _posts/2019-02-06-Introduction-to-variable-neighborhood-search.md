@@ -4,7 +4,7 @@ author: Diego de la Fuente Rodríguez
 ---
 **Lecturer**: Adolfo Urrutia Zambrana
 
-**Date**: 06/02/2018
+**Date**: 06/02/2019
 
 **Time**: 17:00
 
