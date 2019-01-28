@@ -1,6 +1,6 @@
 ---
 title: 
-author: Diego de la Fuente Rodríguez (NOT LECTURER)
+author: Diego de la Fuente Rodríguez
 ---
 **Lecturer**: Adolfo Urrutia Zambrana
 
@@ -22,8 +22,6 @@ Generalized Orienteering Problem, a nonlinear extension of the OP where the VNS 
 
 ## Bibliography
 
-* Hardy H. Har, *His work*.
-* [Awesome web page](www.awesomewebpage.com)
 * [Claymath web page](www.claymath.org/millennium-problems)
 * Gavalas, D., Konstantopoulos, C., Mastakas, K., & Pantziou, G. (2014). 
 *A survey on algorithmic approaches for solving tourist trip design problems*. Journal of Heuristics, 20(3), 291-328.
