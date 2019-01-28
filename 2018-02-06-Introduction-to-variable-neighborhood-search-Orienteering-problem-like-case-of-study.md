@@ -25,11 +25,11 @@ Generalized Orienteering Problem, a nonlinear extension of the OP where the VNS 
 * [Claymath web page](www.claymath.org/millennium-problems)
 * Gavalas, D., Konstantopoulos, C., Mastakas, K., & Pantziou, G. (2014). 
 *A survey on algorithmic approaches for solving tourist trip design problems*. Journal of Heuristics, 20(3), 291-328.
-*Gunawan, A., Lau, H. C., & Vansteenwegen, P. (2016). Orienteering problem: 
+* Gunawan, A., Lau, H. C., & Vansteenwegen, P. (2016). Orienteering problem: 
 *A survey of recent variants, solution approaches and applications.* European Journal of Operational Research, 255(2), 315-332.
-*Hansen, P., & Mladenović, N. (2003). 
+* Hansen, P., & Mladenović, N. (2003). 
 *Variable neighborhood search. In Handbook of metaheuristics* (pp. 145-184). Springer, Boston, MA.
-*Talbi, E. G. (2009). *Metaheuristics: from design to implementation* (Vol. 74). John Wiley & Sons.
-*Talbi, E. G. (2009). *Metaheuristics: from design to implementation* (Vol. 74). John Wiley & Sons.
+* Talbi, E. G. (2009). *Metaheuristics: from design to implementation* (Vol. 74). John Wiley & Sons.
+* Talbi, E. G. (2009). *Metaheuristics: from design to implementation* (Vol. 74). John Wiley & Sons.
 
 ## Promotional poster
