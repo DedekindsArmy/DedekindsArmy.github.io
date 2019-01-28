@@ -32,5 +32,4 @@ Generalized Orienteering Problem, a nonlinear extension of the OP where the VNS 
 * Talbi, E. G. (2009). *Metaheuristics: from design to implementation* (Vol. 74). John Wiley & Sons.
 * Talbi, E. G. (2009). *Metaheuristics: from design to implementation* (Vol. 74). John Wiley & Sons.
 
-
 ## Promotional poster
