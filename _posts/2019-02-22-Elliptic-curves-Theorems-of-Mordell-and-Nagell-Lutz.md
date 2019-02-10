@@ -1,5 +1,5 @@
 ---
-title: Elliptic Curves: the theorems of Mordell and Nagell-Lutz
+title: Elliptic Curves the theorems of Mordell and Nagell-Lutz
 author: Diego de la Fuente Rodríguez
 ---
 **Lecturer**: Víctor Vela Cuena
