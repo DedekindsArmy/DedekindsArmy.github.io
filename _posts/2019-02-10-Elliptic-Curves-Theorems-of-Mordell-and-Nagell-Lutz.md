@@ -4,7 +4,7 @@ author: Diego de la Fuente Rodríguez
 ---
 **Lecturer**: Víctor Vela Cuena
 
-**Date**: 10-02-2019
+**Date**: 13-02-2019
 
 **Time**: 17:00
 
