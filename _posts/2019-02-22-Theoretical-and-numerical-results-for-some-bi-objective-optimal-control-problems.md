@@ -4,9 +4,9 @@ author: Diego de la Fuente Rodríguez
 ---
 **Lecturer**: Irene Marín Gayte
 
-**Date**: 22-02-2019
+**Date**: 21-02-2019
 
-**Time**: 17:00
+**Time**: 17:30
 
 **Place**: Room 209 (2nd floor, Faculty of Mathematics UCM)
 
