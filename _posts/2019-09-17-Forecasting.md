@@ -16,7 +16,7 @@ In this interactive workshop we will learn how to make precise predictions throu
 We will walk through:
 * Definining precise forecasting problems
 * Estimating a base rate using reference classes and basic statistical modelling
-* Adjusting the base rates
+* Adjusting base rates with inside knowledge
 * Evaluating forecasting performance using [proper scoring rules](https://en.wikipedia.org/wiki/Scoring_rule#Proper_scoring_rules)
 
 No previous knowledge is required.
