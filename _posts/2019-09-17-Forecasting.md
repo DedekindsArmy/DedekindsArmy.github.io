@@ -11,7 +11,16 @@ author: Jaime Sevilla
 **Place**: Room 113 (1st floor, Faculty of Mathematics UCM)
 
 **Abstract**: 
-In this talk we will introduce how to use mathematical modelling to apply reference class forecasting.
+In this interactive workshop we will learn how to make precise predictions through a 50 min long exercise.  
+
+We will walk through:
+* Definining precise forecasting problems
+* Estimating a base rate using reference classes and basic statistical modelling
+* Adjusting the base rates
+* Evaluating forecasting performance using proper scoring rules
+
+No previous knowledge is required.
+The talk will be in **English**.
 
 ## Bibliography
 
