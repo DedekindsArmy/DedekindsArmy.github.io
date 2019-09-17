@@ -15,7 +15,7 @@ In this talk we will introduce how to use mathematical modelling to apply refere
 
 ## Bibliography
 
-* Philip E. Tetlock & Dan Gardner, Superforecasting: The Art and Science of Prediction. Crown Publishing Group New York, NY, USA. 2015
+* Philip E. Tetlock & Dan Gardner, *Superforecasting: The Art and Science of Prediction*. Crown Publishing Group New York, NY, USA. 2015
 
 ## Promotional poster
 <img src="images/posters/forecasting.png" alt="Poster" style="width: 750px;"/>
