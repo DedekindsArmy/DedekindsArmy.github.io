@@ -11,7 +11,7 @@ author: Jaime Sevilla
 **Place**: Room 113 (2nd floor, Faculty of Mathematics UCM)
 
 **Abstract**: 
-In this talk we will introduce 
+In this talk we will introduce how to use mathematical modelling to apply reference class forecasting.
 
 ## Bibliography
 
