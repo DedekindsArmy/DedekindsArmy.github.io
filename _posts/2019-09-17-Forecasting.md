@@ -18,4 +18,4 @@ In this talk we will introduce how to use mathematical modelling to apply refere
 * Philip E. Tetlock & Dan Gardner, Superforecasting: The Art and Science of Prediction. Crown Publishing Group New York, NY, USA. 2015
 
 ## Promotional poster
-<img src="/images/posters/forecasting.png" alt="Poster" style="width: 750px;"/>
+<img src="images/posters/Dedekind's Army - Forecasting.png" alt="Poster" style="width: 750px;"/>
