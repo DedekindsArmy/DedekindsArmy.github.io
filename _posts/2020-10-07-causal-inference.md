@@ -4,7 +4,7 @@ author: Jaime Sevilla
 ---
 **Lecturer**: Jaime Sevilla
 
-**Date**: 07/10/2020
+**Date**: 04/11/2020
 
 **Time**: 17:00 CEST
 
