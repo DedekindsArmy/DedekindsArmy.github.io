@@ -8,6 +8,8 @@ author: Jaime Sevilla
 
 **Time**: 17:00 CEST
 
+**Language**: Spanish
+
 **Place**: https://timeout.srcf.net/js2545-exb-neg-bsg
 
 **Abstract**:
