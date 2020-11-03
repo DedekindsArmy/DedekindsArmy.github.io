@@ -6,7 +6,7 @@ author: Jaime Sevilla
 
 **Date**: 04/11/2020
 
-**Time**: 17:00 CEST
+**Time**: 17:00 CET
 
 **Language**: Spanish
 
