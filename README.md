@@ -1,4 +1,3 @@
-
 ## Information needed for a talk
 
 When approached by somebody who wants to give a talk, ask for the following:
