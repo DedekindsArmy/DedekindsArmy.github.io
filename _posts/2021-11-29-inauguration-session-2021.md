@@ -1,5 +1,6 @@
 ---
 title: Inauguration session 2021
+author: haztcaso
 ---
 
 We are ready to start our first session with lots of enthusiasm!

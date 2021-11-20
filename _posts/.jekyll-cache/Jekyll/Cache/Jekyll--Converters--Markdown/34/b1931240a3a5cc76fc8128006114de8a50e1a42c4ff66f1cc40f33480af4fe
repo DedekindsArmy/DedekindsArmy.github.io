@@ -1,0 +1,81 @@
+I"r<ul>
+  <li>Depending on the number of olympic users, the teams will have a size from 2 to 4 people.</li>
+  <li>The competition consists on <strong>[?] problems</strong> (in arithmetic, number theory, analysis and algebra.)</li>
+  <li>There will be two kind of problems: <strong>result-like</strong> problems and <strong>proof-like</strong> problems. Below you can find examples of both kinds. The following table resumes the possible marks:</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Type of problem</th>
+      <th style="text-align: center">Result</th>
+      <th style="text-align: center">Resolution</th>
+      <th style="text-align: center">Mark</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><strong>Result-like</strong></td>
+      <td style="text-align: center">✓</td>
+      <td style="text-align: center">✓</td>
+      <td style="text-align: center">10</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✓</td>
+      <td style="text-align: center">≈</td>
+      <td style="text-align: center">5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✓</td>
+      <td style="text-align: center">✕</td>
+      <td style="text-align: center">2.5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">✕</td>
+      <td style="text-align: center">whatever</td>
+      <td style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>Proof-like</strong></td>
+      <td style="text-align: center">does not apply</td>
+      <td style="text-align: center">✓</td>
+      <td style="text-align: center">10</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">does not apply</td>
+      <td style="text-align: center">≈</td>
+      <td style="text-align: center">5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">does not apply</td>
+      <td style="text-align: center">✕</td>
+      <td style="text-align: center">0</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Teams have <strong>30 minutes</strong> for each problem, and they can stop the time if they think they have worked out the problem. However, if after stopping the time the solution turns out to be wrong, the team will lose 10 points.</li>
+</ul>
+
+<p><span class="capsule"><strong>Result-like problem.</strong></span> Compute the product
+\[\left(1-\frac41\right)\left(1-\frac49\right)
+\left(1-\frac4{25}\right)\cdots\]</p>
+
+<p><span class="capsule"><strong>Proof-like problem.</strong></span> Show that
+\[\cos\left(\frac{\pi}5\ \right)=\frac{1+\sqrt{5}}4.\]</p>
+
+<p><span class="capsule"><strong>Mixed problem.</strong></span> Show that the sequence defined by $a_1:=1$,
+\[a_n:=\sqrt{1+a_{n-1}},\qquad n&gt;1\]
+is convergent, and find its limit.</p>
+
+<ul>
+  <li>In a mixed problem, the 10 points <strong>split</strong> in two: 5 points for the result-like part, and 5 points for the proof-like part.</li>
+  <li>No calculator allowed.</li>
+</ul>
+:ET
