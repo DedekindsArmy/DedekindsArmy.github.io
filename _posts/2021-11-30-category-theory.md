@@ -25,4 +25,4 @@ title: Introduction to category theory
 
 ## Streaming link
 
-The talk will be streamed on youtube: [https://youtu.be/uAtGuMyljvY](https://youtu.be/uAtGuMyljvY).
+The talk will be streamed on youtube: [https://www.youtube.com/watch?v=6HVaIifGJzA](https://www.youtube.com/watch?v=6HVaIifGJzA).
