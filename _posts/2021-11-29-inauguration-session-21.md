@@ -14,7 +14,7 @@ In this session we will start by getting to know each other, and then we will
 explain how Dedekind's Army is going to work. This introduction will last 15 minutes.
 
 Afterwards Guillermo Gallego Sánchez will give the first class of this academic
-year: [Introduction to category theory]({% post_url 2021-11-30-cathegory-theory %}).
+year: [Introduction to category theory]({% post_url 2021-11-30-category-theory %}).
 
 And if you already have an idea for a class you would like to give, [send us an
 email](mailto: dedekindsarmy@gmail.com) with a title and an abstract and we will
