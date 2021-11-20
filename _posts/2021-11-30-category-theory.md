@@ -1,5 +1,6 @@
 ---
 title: Introduction to category theory
+author: haztecaso
 ---
 
 **Lecturer**: Guillermo Gallego Sánchez
