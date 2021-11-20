@@ -1,5 +1,5 @@
 ---
-title: Inauguration session 2021
+title: Inauguration session
 author: haztcaso
 ---
 
