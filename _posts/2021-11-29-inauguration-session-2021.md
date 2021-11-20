@@ -1,5 +1,5 @@
 ---
-title: Inauguration session
+title: Inauguration session 2021
 ---
 
 We are ready to start our first session with lots of enthusiasm!
