@@ -15,14 +15,14 @@ author: haztecaso
 
 **Streaming link**: [https://www.youtube.com/watch?v=6HVaIifGJzA](https://www.youtube.com/watch?v=6HVaIifGJzA).
 
+#### Abstract
+
 *Category theory takes a bird’s eye view of mathematics. From high in the sky,
 details become invisible, but we can spot patterns that were impossible to de-
 tect from ground level.*
 
 -- <cite>Tom Leinster</cite>
 
-
-#### Abstract
 
 Category theory gives the correct framework to describe some of the more
 abstract and general properties in a lot of fields of mathematics. Essentially
@@ -53,13 +53,13 @@ accesible to every undergraduate student in Mathematics.
 
 <hr>
 
+#### Resumen
+
 *La teoría de categorías da una perspectiva de las matemáticas a vista de
 pájaro. Desde lo alto del cielo, los detalles se hacen invisibles, pero podemos
 descubrir patrones que eran imposibles de detectar al nivel del suelo.*
 
 -- <cite>Tom Leinster</cite>
-
-#### Resumen
 
 La teoría de categorías constituye el marco adecuado para describir muchas de
 las propiedades más generales y abstractas de las matemáticas. Esencialmente,
