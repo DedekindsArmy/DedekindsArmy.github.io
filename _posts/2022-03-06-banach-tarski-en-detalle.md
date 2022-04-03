@@ -1,0 +1,43 @@
+---
+title: Banach-Tarski theorem
+author: haztecaso
+---
+
+**Lecturer**: Saúl Rodríguez Martín
+
+**Dates**: 06/03/2022
+
+**Time**: 13:00 CET
+
+**Language**: Spanish
+
+**Place**: Room 114
+
+#### Abstract
+
+The Banach-Tarski paradox claims that a ball is equidecomposable to two balls of the same size, that is, we can divide an open ball into finitely many sets and move each one by an isometry to obtain two balls identical to the original one. Banach and Tarski proved a more general result: any two bounded sets of *R3* with non-empty interior are equidecomposable.
+
+This talk will contain proofs of both results, focusing on how we can use a paradoxical decomposition of the free group *F2* to obtain a paradoxical decomposition of the ball and indicating how exactly the proof uses the axiom of choice.
+
+
+
+#### Bibliography
+
+
+- [Apuntes de Terence Tao sobre el lema del Ping Pong, amenabilidad y la paradoja de Banach-Tarski.](https://terrytao.wordpress.com/2009/01/08/245b-notes-2)
+- Clara Löh. *Geometric Group Theory.  An Introduction.* Springer (2017).
+- [Francis Edward Su.  *The Banach Tarski Paradox.* Minor PhD thesis, Harvard University, 1990](https://math.hmc.edu/su/wp-content/uploads/sites/10/2019/06/The-Banach-Tarski-Paradox.pdf)
+- [Robinson, Raphael. *On the decomposition of spheres.* Fundamenta Mathematicae 34.1 (1947): 246-260](http://eudml.org/doc/213130)
+
+
+## Promotional poster
+<img src="/images/posters/banach-tarski.jpeg" alt="Poster" style="width: 750px;"/>
+
+<hr>
+
+#### Resumen
+
+La paradoja de Banach Tarski dice que una bola es equidescomponible a dos bolas de su mismo tamaño, es decir, podemos dividir una bola en finitos conjuntos y moverlos mediante isometrías para obtener dos bolas idénticas a la inicial. Banach y Tarski probaron una generalización de la paradoja: cualesquiera dos subconjuntos acotados y con interior no vacío de *R3* son equidescomponibles.
+
+Esta charla contiene pruebas de ambos resultados, centrándose en cómo obtener una descomposición paradójica de la bola a partir de una descomposición paradójica del grupo libre *F2* e indicando cómo se usa el axioma de elección en la demostración.
+
