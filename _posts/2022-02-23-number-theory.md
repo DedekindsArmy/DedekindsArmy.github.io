@@ -13,6 +13,8 @@ author: haztecaso
 
 **Place**: Room 117
 
+[**Course notes**](/files/Introducción_a_la_teoría_algebraica_de_números.pdf)
+
 #### Abstract
 
 *If math is the queen of sciences, number theory is the queen of math*
