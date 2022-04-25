@@ -1,5 +1,5 @@
 ---
-title: Introduction to number theory
+title: Coloreando Borsuk-Ulam
 author: haztecaso
 ---
 
