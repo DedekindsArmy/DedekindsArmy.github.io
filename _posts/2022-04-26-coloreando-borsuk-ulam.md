@@ -3,7 +3,7 @@ title: Coloreando Borsuk-Ulam
 author: haztecaso
 ---
 
-**Lecturer**: Jorge Martín
+**Lecturer**: Miguel Martínez González
 
 **Date**: 26/04/2022
 
@@ -40,7 +40,4 @@ La sesión está pensada para que cualquier estudiante de la facultad pueda segu
 
 
 ## Promotional poster
-<img src="/images/posters/borsuk-ulam.jpeg" alt="Poster" style="width: 750px;"/>
-
-<hr>
-
+<img src="/images/posters/borsuk-ulam.jpg" alt="Poster" style="width: 750px;"/>
